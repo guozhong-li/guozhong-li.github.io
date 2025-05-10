@@ -10,7 +10,7 @@ redirect_from:
 Hello! I am Guozhong Li, currently a Postdoctoral research fellow at King Abdullah University of Science and Technology (KAUST), and I am very fortunate to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). 
 Before that, I obtained my Ph.D. degree from Hong Kong Baptist University (HKBU), supervised by [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/), and my MS and BS degree from the University of Electronic Science and Technology of China (UESTC), Chengdu, China. 
 
-My research interests include scientific data compression, time series data mining, representation learning, and graph management.
+My research interests include scientific data compression, time series data analysis, representation learning, and graph management.
 
 
 # 🎖 Honors and Awards
