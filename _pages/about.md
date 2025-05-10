@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Guozhong Li, currently a Postdoctoral research fellow at King Abdullah University of Science and Technology (KAUST), and I am very honored to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). 
-Before that, I obtained my Ph.D. degree from Hong Kong Baptist University (HKBU), supervised by [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/), and my MS and BS degree from the University of Electronic Science and Technology of China (UESTC), Chengdu, China. 
+Hello! I am Guozhong Li, currently a Postdoctoral Research Fellow at King Abdullah University of Science and Technology (KAUST), and I am very honored to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). 
+Prior to thist, I obtained my Ph.D. degree from Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). I also hold both M.S. and B.S. degree from the University of Electronic Science and Technology of China (UESTC), Chengdu, China. 
 
 My research interests are **Temporal Machine Learning** and **Scientific Data Compression**.  
 Specifically, my research goals are to develop **Scalable Temporal AI frameworks** (Scalable TAI) and **Structure-aware Compression Systems** (Structured Compression).  
