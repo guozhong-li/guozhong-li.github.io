@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "csgzli.png"
+  avatar           : "csgzli.JPG"
   name             : "Guozhong Li (李国忠)"
   pronouns         : "he/him"  # example: "she/her"  
   bio              : "Time series, Scientific data compression, Representation learning"
