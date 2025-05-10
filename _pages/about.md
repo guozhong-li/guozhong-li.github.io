@@ -18,11 +18,11 @@ My research helps realize these goals by making progress in the following four d
 
 - **Interpretable Time Series Representation**  
   Shapelet-based modeling and instance profiling for scalable and explainable classification  
-  (*[AAAI'21: ShapeNet]*, *[ICDE'22: IPS]*, *[TKDE'22: BSPCover]*)
+  (*[AAAI'21: ShapeNet](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[ICDE'22: IPS](https://ieeexplore.ieee.org/document/9835498)*, *[TKDE'22: BSPCover](https://ieeexplore.ieee.org/document/9096567)*)
 
 - **Efficient Transformer Architectures for Temporal Data**  
   Variable-position and data-driven attention mechanisms for long-range modeling  
-  (*[AAAI'23: SVP-T]*, *[PVLDB'24: DARKER]*)
+  (*[AAAI'23: SVP-T](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[PVLDB'24: DARKER](https://dl.acm.org/doi/10.14778/3681954.3681996)*)
 
 - **Representation Learning for Indexing and Retrieval**  
   Learned symbolic representations for similarity search and fast retrieval in high-volume time series  
