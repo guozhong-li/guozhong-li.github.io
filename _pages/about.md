@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Guozhong Li"
 author_profile: true
 redirect_from: 
   - /about/
