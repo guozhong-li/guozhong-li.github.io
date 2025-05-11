@@ -39,8 +39,6 @@ My research helps realize these goals by making progress in the following four d
 - **Ph.D. in Computer Science**, Hong Kong Baptist University (HKBU), Hong Kong SAR, China   
   *2017 – 2021*    
   Thesis: [Shapelet Discovery for Time Series Analysis](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/56785314/RPG_PHD_2021_10_20_E2_R35_T.pdf)   
-  Supervised by [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/)  
-  Member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/)
 
 - **M.S. in Computer Science**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
   *2014 – 2017*
