@@ -202,40 +202,28 @@
     z-index: 100;
   }
 
-   .visible-links {
-     display: flex;
-     justify-content: center; /* 关键居中！ */
-     align-items: center;
-     flex-wrap: wrap;
-   
-     li {
-       display: inline-block;
-       margin: 0 0.5rem;
-     }
-   }
+  .visible-links {
+    display: table;
 
-  // .visible-links {
-  //   display: table;
+    li {
+      display: table-cell;
+      vertical-align: middle;
 
-    // li {
-    //   display: table-cell;
-    //   vertical-align: middle;
+      &:first-child {
+        font-weight: bold;
+        text-wrap: wrap;
 
-    //   &:first-child {
-    //     font-weight: bold;
-    //     text-wrap: wrap;
+        a {
+          margin-left: 0;
+        }
+      }
 
-    //     a {
-    //       margin-left: 0;
-    //     }
-    //   }
-
-    //   &:last-child {
-    //     a {
-    //       margin-right: 0;
-    //     }
-    //   }
-    // }
+      &:last-child {
+        a {
+          margin-right: 0;
+        }
+      }
+    }
 
     #theme-toggle {
       a {
