@@ -27,7 +27,7 @@ To realize this vision, my work contributes to the following four directions:
 
 - **Learned Index and Retrieval in Large-scale Time Series**  
   Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
-  (*[leSAX: ICDE'25]*)
+  (*[leSAX: ICDE'25](https://ieeexplore.ieee.org/document/xxxx)*)
 
 - **Graph and LLM-based Compression for Spatial-temporal Scientific Data**  
   Hybrid compression frameworks are constructed using temporal graphs and LLMs to achieve error-bounded compression.  
