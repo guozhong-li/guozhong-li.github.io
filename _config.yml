@@ -25,7 +25,11 @@ author:
   avatar           : "csgzli.png"
   name             : "Guozhong Li (李国忠)"
   pronouns         : "he/him"  # example: "she/her"  
-  bio              : Scientific data compression, Time series analysis, Representation learning
+  #bio              : Scientific data compression, Time series analysis, Representation learning
+  bio:
+    - Scientific Data Compression
+    - Time Series Analysis
+    - Representation Learning
   location         : "Thuwal, Saudi Arabia"
   employer         : "KAUST"
   #uri              : # URL
