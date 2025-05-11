@@ -11,27 +11,26 @@ Hello! I am Guozhong Li, currently a Postdoctoral Research Fellow at King Abdull
 Prior to thist, I obtained my Ph.D. degree from Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). 
 I was previously a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/).
 
-My research interests are **Temporal Machine Learning** and **Scientific Data Compression**.  
-Specifically, my research goals are to develop **Scalable Temporal AI frameworks** (Scalable TAI) and **Structure-aware Compression Systems** (Structured Compression).  
-Here, *scalable* refers to modeling long-range dependencies and multimodal signals efficiently across large-scale temporal and scientific datasets.  
-*Structured* means that the learned representations are designed to support downstream tasks such as forecasting, retrieval, and error-bounded compression in a resource-efficient and interpretable manner.  
-My research helps realize these goals by making progress in the following four directions:
+My research focuses on **scalable modeling** and **structure-aware representation learning** for time series and spatial-temporal scientific data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, forecasting, retrieval, and error-bounded compression with both efficiency and interpretability.
+I pursue this goal through advances in **attention-based architectures**, **symbolic and graph-based representations**, and **unified frameworks for large-scale temporal reasoning**.
 
-- **Interpretable Time Series Representation**  
-  Shapelet-based modeling and instance profiling for scalable and explainable classification  
-  (*[AAAI'21: ShapeNet](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[ICDE'22: IPS](https://ieeexplore.ieee.org/document/9835498)*, *[TKDE'22: BSPCover](https://ieeexplore.ieee.org/document/9096567)*)
+To realize this vision, my work contributes to the following four directions:
 
-- **Efficient Transformer Architectures for Temporal Data**  
-  Variable-position and data-driven attention mechanisms for long-range modeling  
-  (*[AAAI'23: SVP-T](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[PVLDB'24: DARKER](https://dl.acm.org/doi/10.14778/3681954.3681996)*)
+- **Interpretable Representations for Temporal Understanding**  
+  Shapelet-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
+  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313))
 
-- **Representation Learning for Indexing and Retrieval**  
-  Learned symbolic representations for similarity search and fast retrieval in high-volume time series  
-  (*[ICDE'25: leSAX]*)
+- **Transformer Architectures for Temporal Modeling**  
+  Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
+  (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*)
 
-- **Graph and LLM-based Scientific Data Compression**  
-  Error-bounded compression via temporal graphs and hybrid frameworks using LLMs  
-  (*[GraphCom - ArXiv]*, *[iGSL - Under Review]*, *[LLM4Comp - Ongoing]*)
+- **Learned Index and Retrieval in Large-scale Time Series**  
+  Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
+  (*[leSAX: ICDE'25]*)
+
+- **Graph and LLM-based Compression for Spatial-temporal Scientific Data**  
+  Hybrid compression frameworks are constructed using temporal graphs and LLMs to achieve error-bounded compression.  
+  (*[GraphCom: ArXiv]*, *[iGSL - Under Review]*, *[LLM4Comp - Ongoing]*)
 
 # Education
 
