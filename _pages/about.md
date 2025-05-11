@@ -32,7 +32,7 @@ To realize this vision, my work contributes to the following four directions:
   Hybrid compression frameworks are constructed using temporal graphs and LLMs to achieve error-bounded compression.  
   (*[GraphCom: ArXiv]*, *[iGSL - Under Review]*, *[LLM4Comp - Ongoing]*)
 
-# Education
+# 🎓 Education
 
 - **Ph.D. in Computer Science**, Hong Kong Baptist University (HKBU), Hong Kong SAR, China   
   *2017 – 2021*    
