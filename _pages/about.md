@@ -39,10 +39,10 @@ My research helps realize these goals by making progress in the following four d
   *2017 – 2021*    
   Thesis: [Shapelet Discovery for Time Series Analysis](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/56785314/RPG_PHD_2021_10_20_E2_R35_T.pdf)   
 
-- **M.S. in Computer Science**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
+- **M.S. in Software Engineering**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
   *2014 – 2017*
 
-- **B.S. in Computer Science**, UUniversity of Electronic Science and Technology of China (UESTC), Chengdu, China  
+- **B.S. in Software Engineering**, UUniversity of Electronic Science and Technology of China (UESTC), Chengdu, China  
   *2010 – 2014*
 
 
