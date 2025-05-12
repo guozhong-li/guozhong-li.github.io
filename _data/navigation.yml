@@ -18,7 +18,8 @@ main:
     url: /teaching/    
 
   - title: "CV"
-    url: /cv/
+    url: /files/CV_csgzli.pdf
+  #  url: /cv/
     
   # - title: "Portfolio"
   #  url: /portfolio/
