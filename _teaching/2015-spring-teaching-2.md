@@ -1,5 +1,6 @@
 ---
-title: "Teaching Assistant Experience at HKBU"
+title: "Teaching Assistant"
+layout: teaching_full
 collection: teaching
 date: 2019-09-01
 type: "Teaching Assistant"
