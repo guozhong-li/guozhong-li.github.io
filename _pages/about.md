@@ -42,7 +42,7 @@ To realize this vision, my work contributes to the following four directions:
 - **M.E. in Software Engineering**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
   *2014 – 2017*
 
-- **B.E. in Software Engineering**, UUniversity of Electronic Science and Technology of China (UESTC), Chengdu, China  
+- **B.E. in Software Engineering**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
   *2010 – 2014*
 
 
