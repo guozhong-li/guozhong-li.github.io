@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant Experience at HKBU"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+venue: "Department of Computer Science, HKBU"
+date: 2019-2017
+location: "Hong Kong, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During my Ph.D. at Hong Kong Baptist University, I served as a teaching assistant for the following courses:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- **2019 Fall**: COMP7270 — *Web and Mobile Programming*
+- **2019 Spring**: COMP4027 / COMP7650 — *Data Mining and Knowledge Discovery*
+- **2018 Fall**: COMP7480 — *Programming for Web and Mobile Information Systems*
+- **2018 Fall**: COMP4097 — *Mobile Computing*
+- **2018 Spring**: COMP7470 — *Health Information Privacy*
+- **2017 Fall**: COMP2026 — *Problem Solving Using Object-Oriented Programming*
