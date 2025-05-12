@@ -1,3 +1,10 @@
+---
+title: "Service"
+permalink: /service/
+layout: archive
+author_profile: true
+---
+
 ### Academic Services
 
 - **Community Service**
