@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant Experience at HKBU"
 collection: teaching
-date: 2019-2017
+date: 2019-09-01
 type: "Teaching Assistant"
 venue: "Department of Computer Science, HKBU"
 location: "Hong Kong, China"
