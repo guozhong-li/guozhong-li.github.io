@@ -20,9 +20,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "CV"
-    url: /files/CV_csgzli.pdf
-    external: true
+  # - title: "CV"
+  #  url: /files/CV_csgzli.pdf
+  #  external: true
   #  url: /cv/
     
   # - title: "Portfolio"
