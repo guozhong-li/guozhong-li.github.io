@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## For the full list, please visit my <a href="https://scholar.google.com/citations?user=xr_cyAgAAAAJ&hl=en&authuser=2" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
+## For the full list, please visit my <a href="https://scholar.google.com/citations?user=xr_cyAgAAAAJ&hl=en&authuser=2" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
 
 ## ("†" corresponding author, "__" students mentored by me)
 <!-- "*" equal contribution, -->
