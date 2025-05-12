@@ -23,14 +23,14 @@ author_profile: true
 ### 2024
 
 1. *DARKER: Efficient Transformer with Data-driven Attention Mechanism for Time Series*  
-   <u>Rundong Zuo</u>, Guozhong Li†, Rui Cao, Byron Choi, Jianliang Xu, Sourav S. Bhowmick  
+   <u>Rundong Zuo</u>, **Guozhong Li**†, Rui Cao, Byron Choi, Jianliang Xu, Sourav S. Bhowmick  
    **PVLDB 2024**, Vol. 17, No. 11, pp. 3229–3242  
    [DOI](https://doi.org/10.14778/3681954.3681996)
 
 ### 2023
 
 1. *SVP-T: A Shape-level Variable-Position Transformer for Multivariate Time Series Classification*  
-   <u>Rundong Zuo</u>, Guozhong Li†, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong  
+   <u>Rundong Zuo</u>, **Guozhong Li**†, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong  
    **AAAI 2023**, Vol. 37, No. 9, pp. 11497–11505  
    **Oral Paper** | [DOI](https://doi.org/10.1609/aaai.v37i9.26359)
 
