@@ -12,12 +12,12 @@ author_profile: true
 ### 2025
 
 1. *GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders*  
-   Guozhong Li, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis  
+   **Guozhong Li**, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis  
    **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, Submitted, 2025  
    [DOI TBD]
 
 1. *leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search*  
-   Guozhong Li, Byron Choi, Rundong Zuo, Sourav S. Bhowmick, Jianliang Xu  
+   **Guozhong Li**, Byron Choi, Rundong Zuo, Sourav S. Bhowmick, Jianliang Xu  
    **ICDE 2025** (The 41st IEEE International Conference on Data Engineering), May 2025
 
 ### 2024
