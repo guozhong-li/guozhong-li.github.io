@@ -16,8 +16,8 @@ author_profile: true
 
 <h2>2025</h2>
 
-<li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/2505.06316"> [ArXiv] </i><br>
-<b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
+<li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/2505.06316">[ArXiv]</a></i><br>
+<u><b>Guozhong Li</b></u>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), Submitted, 2025.</p></li>
 
 <li><p><i><b style="color: #C89933">[ICDE]</b> leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search.</i><br>
