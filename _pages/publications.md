@@ -8,7 +8,7 @@ author_profile: true
 ## For the full list, please visit my <a href="https://scholar.google.com/citations?user=xr_cyAgAAAAJ&hl=en&authuser=2" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
 
 ## ("†" corresponding author, "__" students mentored by me)
-<!-- "*" equal contribution, 2505.06316-->
+<!-- "*" equal contribution, -->
 
 <h2>Selected Publications</h2>
 
@@ -16,7 +16,7 @@ author_profile: true
 
 <h2>2025</h2>
 
-<li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/">[ArXiv]</a></i><br>
+<li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/2505.06316">[ArXiv]</a></i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), Submitted, 2025.</p></li>
 
