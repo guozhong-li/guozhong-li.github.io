@@ -35,14 +35,14 @@ To realize this vision, my work contributes to the following four directions:
 
 # 🎓 Education
 
-- **Ph.D. in Computer Science**, Hong Kong Baptist University (HKBU), Hong Kong SAR, China   
-  *2017 – 2021*    
-  Thesis: [Shapelet Discovery for Time Series Analysis](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/56785314/RPG_PHD_2021_10_20_E2_R35_T.pdf)   
+- <img src="/images/hkbu-logo.png" alt="HKBU" width="20"> **Ph.D. in Computer Science**, Hong Kong Baptist University (HKBU), Hong Kong SAR, China  
+  *2017 – 2021*  
+  Thesis: [Shapelet Discovery for Time Series Analysis](https://scholars.hkbu.edu.hk/ws/portalfiles/portal/56785314/RPG_PHD_2021_10_20_E2_R35_T.pdf)
 
-- **M.E. in Software Engineering**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
+- <img src="/images/uestc-logo.png" alt="UESTC" width="20"> **M.E. in Software Engineering**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
   *2014 – 2017*
 
-- **B.E. in Software Engineering**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
+- <img src="/images/uestc-logo.png" alt="UESTC" width="20"> **B.E. in Software Engineering**, University of Electronic Science and Technology of China (UESTC), Chengdu, China  
   *2010 – 2014*
 
 
