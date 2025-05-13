@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Guozhong Li, currently a Postdoctoral Research Fellow at King Abdullah University of Science and Technology (KAUST), and I am very honored to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). 
+Hi! I am Guozhong Li (李国忠), currently a Postdoctoral Research Fellow at King Abdullah University of Science and Technology (KAUST), and I am very honored to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). 
 Prior to thist, I was fortunate to complete my Ph.D. at Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). 
 I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/).
  
