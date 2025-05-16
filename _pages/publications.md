@@ -22,7 +22,7 @@ author_profile: true
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), Submitted, 2025.</p></li>
 
-<li><p><i><b style="color: #C89933">[ICDE]</b> leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search. <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic">[Paper]</i><br>
+<li><p><i><b style="color: #C89933">[ICDE]</b> leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search. <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic">[Paper] </a></i><br>
 <b>Guozhong Li</b>, Byron Choi, Rundong Zuo, Sourav S. Bhowmick, Jianliang Xu<br>
 The 41st IEEE International Conference on Data Engineering (ICDE 2025), May 2025.</p></li>
 
