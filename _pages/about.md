@@ -53,3 +53,12 @@ To realize this vision, my work contributes to the following four directions:
 - Teaching Assistant Performance Award, Hong Kong Baptist University, 2017, 2018, 2019.
 - IBM-CSC Scholarship, IBM \& Chinese Scholarship Council, 2015.
 - National Scholarship, Ministry of Education, P.R.China. 2011, 2012, 2013,2016.
+
+<!-- ClustrMaps 3D Globe -->
+<div style="text-align: center; margin: 20px 0;">
+    <script 
+        type="text/javascript" 
+        id="clstr_globe" 
+        src="//clustrmaps.com/globe.js?d=DDs_hE9lk7PsU1ZRky_FBGAQEjLxZigiUUzWOwowD6U">
+    </script>
+</div>
