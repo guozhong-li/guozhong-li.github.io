@@ -57,8 +57,9 @@ To realize this vision, my work contributes to the following four directions:
 
 # 🌍 Pageviews
 <!-- ClustrMaps 3D Globe -->
-<div style="width: 200px; height: 200px; margin: 20px auto;">
-    <script 
+<!-- <div style="width: 200px; height: 200px; margin: 20px auto;">  -->
+<div style="display: none;">
+  <script 
         type="text/javascript" 
         id="clstr_globe" 
         src="//clustrmaps.com/globe.js?d=DDs_hE9lk7PsU1ZRky_FBGAQEjLxZigiUUzWOwowD6U">
