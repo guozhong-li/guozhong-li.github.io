@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 Hi! I am Guozhong Li (李国忠), currently a Postdoctoral Research Fellow at King Abdullah University of Science and Technology (KAUST), and I am very honored to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). 
-Prior to thist, I was fortunate to complete my Ph.D. at Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). 
+Previously, I was a visiting Postdoctoral Research Fellow at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html).
+Prior to that, I was fortunate to complete my Ph.D. in Computer Science at Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). 
 I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/).
  
 # 🔍 Research
 My research focuses on **spatial-temporal modeling** and **structure-aware representation learning** for time series and spatial-temporal (scientific) data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, forecasting, retrieval, and error-bounded compression with both efficiency and interpretability.
-I pursue this goal through advances in **attention-based architectures**, **symbolic and graph-based representations**, and **unified frameworks for large-scale temporal reasoning**.
+I pursue this goal through advances in **attention-based architectures**, **symbolic and graph-based representations**, and **unified frameworks for large-scale temporal reasoning**..
 
 To realize this vision, my work contributes to the following four directions:
 
