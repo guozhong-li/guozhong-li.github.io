@@ -22,19 +22,19 @@ author_profile: true
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), Submitted, 2025.</p></li>
 
-<li><p><i><b style="color: #C89933">[ICDE]</b> leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search. <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic">[Paper] </a><a href="https://bitbucket.org/busnow/lesax/src/main/">[Code]</a></i><br>
+<li><p><i><b style="color: #C89933">[ICDE]</b> leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search. <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic">[Paper] </a> <a href="https://bitbucket.org/busnow/lesax/src/main/">[Code]</a></i><br>
 <b>Guozhong Li</b>, Byron Choi, Rundong Zuo, Sourav S. Bhowmick, Jianliang Xu<br>
 The 41st IEEE International Conference on Data Engineering (ICDE 2025), May 2025.</p></li>
 
 <h2>2024</h2>
 
-<li><p><i><b style="color: #C89933">[PVLDB]</b> DARKER: Efficient Transformer with Data-driven Attention Mechanism for Time Series. <a href="https://doi.org/10.14778/3681954.3681996">[Paper]</a><a href="https://github.com/rdzuo/darker/">[Code]</a></i><br>
+<li><p><i><b style="color: #C89933">[PVLDB]</b> DARKER: Efficient Transformer with Data-driven Attention Mechanism for Time Series. <a href="https://doi.org/10.14778/3681954.3681996">[Paper]</a> <a href="https://github.com/rdzuo/darker/">[Code]</a></i><br>
 <u>Rundong Zuo</u>, <b>Guozhong Li†</b>, Rui Cao, Byron Choi, Jianliang Xu, Sourav S. Bhowmick<br>
 Proceedings of the VLDB Endowment (PVLDB), Vol. 17, No. 11, pp. 3229–3242, Aug 2024.</p></li>
 
 <h2>2023</h2>
 
-<li><p><i><b style="color: #C89933">[AAAI]</b> SVP-T: A Shape-level Variable-Position Transformer for Multivariate Time Series Classification. <a href="https://doi.org/10.1609/aaai.v37i9.26359">[Paper]</a><a href="https://github.com/rdzuo/svp-transformer">[Code]</a></i><br>
+<li><p><i><b style="color: #C89933">[AAAI]</b> SVP-T: A Shape-level Variable-Position Transformer for Multivariate Time Series Classification. <a href="https://doi.org/10.1609/aaai.v37i9.26359">[Paper]</a> <a href="https://github.com/rdzuo/svp-transformer">[Code]</a></i><br>
 <u>Rundong Zuo</u>, <b>Guozhong Li</b>, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong<br>
 The 37th AAAI Conference on Artificial Intelligence (AAAI 2023), Oral Paper.</p></li>
 
@@ -54,7 +54,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 34, No. 3, pp. 
 
 <h2>2021</h2>
 
-<li><p><i><b style="color: #C89933">[AAAI]</b> ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification. <a href="https://doi.org/10.1609/aaai.v35i9.17018">[Paper]</a></i><br>
+<li><p><i><b style="color: #C89933">[AAAI]</b> ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification. <a href="https://doi.org/10.1609/aaai.v35i9.17018">[Paper]</a> <a href="https://www.comp.hkbu.edu.hk/~csgzli/mtsc/">[Supporting material]</a></i><br>
 <b>Guozhong Li</b>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong<br>
 The 35th AAAI Conference on Artificial Intelligence (AAAI 2021), Oral Paper.</p></li>
 
