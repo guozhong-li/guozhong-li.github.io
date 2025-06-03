@@ -14,7 +14,7 @@ I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~d
 <!-- Previously, I was a visiting Postdoctoral Research Fellow at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html). -->
  
 # 🔍 Research
-My research focuses on **spatial-temporal modeling** and **structure-aware representation learning** for time series and spatial-temporal (scientific) data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, forecasting, retrieval, and error-bounded compression with both efficiency and interpretability.
+My research focuses on **spatiotemporal modeling** and **structure-aware representation learning** for time series and spatiotemporal (scientific) data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, forecasting, retrieval, and error-bounded compression with both efficiency and interpretability.
 I pursue this goal through advances in **attention-based architectures**, **symbolic and graph-based representations**, and **unified frameworks for large-scale temporal reasoning**.
 
 To realize this vision, my work contributes to the following four directions:
@@ -31,7 +31,7 @@ To realize this vision, my work contributes to the following four directions:
   Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
   (*[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*)
 
-- **Graph and LLM-based Compression for Spatial-temporal Scientific Data**  
+- **Graph and LLM-based Compression for Spatiotemporal Scientific Data**  
   Hybrid compression frameworks are constructed using temporal graphs and LLMs to achieve error-bounded compression.  
   (*[GraphCom: ArXiv](https://arxiv.org/abs/2505.06316)*, *[LLM4Comp - Ongoing]*)
 
