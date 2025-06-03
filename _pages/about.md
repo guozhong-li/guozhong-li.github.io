@@ -15,7 +15,7 @@ I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~d
  
 # 🔍 Research
 My research focuses on **spatiotemporal modeling** and **structure-aware representation learning** for time series and spatiotemporal (scientific) data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and interpretability.
-I pursue this goal through advances in **attention-based architectures**, **symbolic and graph-based representations**, and **unified frameworks for large-scale temporal reasoning**.
+I pursue this goal through advances in **shape-based models**, **attention-based architectures**, **symbolic and graph-based representations**, and **unified frameworks for large-scale temporal reasoning**.
 
 To realize this vision, my work contributes to the following four directions:
 
