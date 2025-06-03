@@ -53,7 +53,7 @@ To realize this vision, my work contributes to the following four directions:
 - Research Performance Award, Hong Kong Baptist University, 2020, 2021.
 - Excellent Teaching Assistant Performance Award, Hong Kong Baptist University, 2018, 2019.
 - Teaching Assistant Performance Award, Hong Kong Baptist University, 2017, 2018, 2019.
-- IBM-CSC Scholarship, IBM \& Chinese Scholarship Council, 2015.
+- IBM-CSC Scholarship, IBM & Chinese Scholarship Council, 2015.
 - National Scholarship, Ministry of Education, P.R.China. 2011, 2012, 2013,2016.
 
 
