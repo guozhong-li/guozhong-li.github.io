@@ -48,7 +48,7 @@ Proceedings of the VLDB Endowment (PVLDB), Vol. 15, No. 12, pp. 3650–3653, Sep
 <b>Guozhong Li</b>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong<br>
 The 38th IEEE International Conference on Data Engineering (ICDE 2022), pp. 1781–1793, May 2022.</p></li>
 
-<li><p><i><b style="color: #C89933">[TKDE]</b> Efficient Shapelet Discovery for Time Series Classification. <a href="https://doi.org/10.1109/TKDE.2020.2995870">[Paper]</a></i><br>
+<li><p><i><b style="color: #C89933">[TKDE]</b> Efficient Shapelet Discovery for Time Series Classification. <a href="https://doi.org/10.1109/TKDE.2020.2995870">[Paper]</a> <a href="https://www.comp.hkbu.edu.hk/~csgzli/tsc/">[Supporting material]</a></i><br>
 <b>Guozhong Li</b>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 34, No. 3, pp. 1149–1163, 2022.</p></li>
 
@@ -60,7 +60,7 @@ The 35th AAAI Conference on Artificial Intelligence (AAAI 2021), Oral Paper.</p>
 
 <h2>2020</h2>
 
-<li><p><i><b style="color: #C89933">[CIKM]</b> Visualet: Visualizing Shapelets for Time Series Classification. <a href="https://doi.org/10.1145/3340531.3417414">[Paper]</a></i><br>
+<li><p><i><b style="color: #C89933">[CIKM]</b> Visualet: Visualizing Shapelets for Time Series Classification. <a href="https://doi.org/10.1145/3340531.3417414">[Paper]</a> <a href="https://www.youtube.com/watch?v=cAWylZXDXik">[Video]</a> </i><br>
 <b>Guozhong Li</b>, Byron Choi, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong, Shiwen Li<br>
 29th ACM International Conference on Information and Knowledge Management (CIKM 2020), pp. 3429–3432.</p></li>
 
