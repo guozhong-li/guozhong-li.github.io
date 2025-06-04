@@ -33,7 +33,7 @@ To realize this vision, my work contributes to the following four directions:
 
 - **Graph and LLM-based Compression for Spatiotemporal Scientific Data**  
   Hybrid compression frameworks are constructed using temporal graphs and LLMs to achieve error-bounded compression.  
-  (*[GraphCom: ArXiv](https://arxiv.org/abs/2505.06316)*, *[LLM4Comp - Ongoing]*)
+  (*[GraphCom: ArXiv](https://arxiv.org/abs/2505.06316)*, *[LLMComp - Ongoing]*)
 
 # 🎓 Education
 
