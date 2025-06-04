@@ -31,8 +31,8 @@ To realize this vision, my work contributes to the following four directions:
   Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
   (*[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*)
 
-- **Graph and LLM-based Compression for Spatiotemporal Scientific Data**  
-  Hybrid compression frameworks are constructed using temporal graphs and LLMs to achieve error-bounded compression.  
+- **Graph and LLM-based Compression for Scientific Data**  
+  Leverage temporal graphs and LLMs to design frameworks that support controllable, error-bounded scientific data compression.
   (*[GraphCom: ArXiv](https://arxiv.org/abs/2505.06316)*, *[LLMComp - Ongoing]*)
 
 # 🎓 Education
