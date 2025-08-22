@@ -21,7 +21,7 @@ To realize this vision, my work contributes to the following four directions:
 
 - **Interpretable Representations for Temporal Understanding**  
   Shapelet-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
-  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[iGSL - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
+  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[Hierarchical TS - Ongoing]*, *[iGSL - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
 
 - **Transformer Architectures for Temporal Modeling**  
   Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
