@@ -21,7 +21,7 @@ author_profile: true
 
 - **Conference Program Committee (PC) Member**
   - *PVLDB Demo*: 2025  
-  - *AAAI*: 2025–2023  
+  - *AAAI*: 2026–2023  
   - *IJCAI*: 2025–2024  
   - *ACML*: 2025  
   - *PAKDD*: 2025–2023
