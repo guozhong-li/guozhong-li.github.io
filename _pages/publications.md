@@ -24,6 +24,12 @@ author_profile: true
 IEEE International Conference on Big Data (IEEE BigData), Under Reivew, 2025.</p></li>
 -->
 
+<!--
+<li><p><i><b style="color: #C89933">[PVLDB]</b> Structure-Aware Summarization at Scale: Revisiting Hierarchical Time Series. </i><br>
+<u>Yihan Wu</u>, Xuliang Zhu, <b>Guozhong Li</b>, Kai Wang, Xueming Lin<br>
+Proceedings of the VLDB Endowment (PVLDB), Under Reivew, 2025.</p></li>
+-->
+
 <li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression. </i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Panos Kalnis<br>
 IEEE International Conference on Big Data (IEEE BigData), Under Reivew, 2025.</p></li>
