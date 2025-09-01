@@ -25,7 +25,7 @@ IEEE International Conference on Big Data (IEEE BigData), Under Reivew, 2025.</p
 -->
 
 <!--
-<li><p><i><b style="color: #C89933">[PVLDB]</b> Structure-Aware Summarization at Scale: Revisiting Hierarchical Time Series. </i><br>
+<li><p><i><b style="color: #C89933">[PVLDB]</b> From Flat to Hierarchical: Structure-Aware Summarization of Time Series. </i><br>
 <u>Yihan Wu</u>, Xuliang Zhu, <b>Guozhong Li</b>, Kai Wang, Xueming Lin<br>
 Proceedings of the VLDB Endowment (PVLDB), Under Reivew, 2025.</p></li>
 -->
