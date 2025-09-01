@@ -7,7 +7,7 @@ author_profile: true
 
 ## For the full list, please visit my <a href="https://scholar.google.com/citations?user=xr_cyAgAAAAJ&hl=en&authuser=2" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
 
-## ("†" corresponding author, "__" students mentored by me)
+## ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
 <!-- "*" equal contribution, -->
 
 
@@ -26,7 +26,7 @@ IEEE International Conference on Big Data (IEEE BigData), Under Reivew, 2025.</p
 
 <!--
 <li><p><i><b style="color: #C89933">[PVLDB]</b> From Flat to Hierarchical: Structure-Aware Summarization of Time Series. </i><br>
-<u>Yihan Wu</u>, Xuliang Zhu, <b>Guozhong Li</b>, Kai Wang, Xueming Lin<br>
+<u>Yihan Wu*</u>, Xuliang Zhu*, <b>Guozhong Li</b>, Kai Wang, Xueming Lin<br>
 Proceedings of the VLDB Endowment (PVLDB), Under Reivew, 2025.</p></li>
 -->
 
