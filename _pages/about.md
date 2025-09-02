@@ -14,7 +14,7 @@ I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~d
 <!-- Previously, I was a visiting Postdoctoral Research Fellow at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html). -->
  
 # 🔍 Research
-My research focuses on **efficient spatiotemporal modeling** and **structure-aware representation learning** for time series and spatiotemporal (scientific) data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and interpretability.
+My research focuses on **efficient and scalable methods for spatiotemporal data**, spanning **modeling, indexing, and compression** for time series and spatiotemporal (scientific) data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and interpretability.
 I pursue this goal through advances in **shape-based models**, **attention-based architectures**, **symbolic and graph-based representations**, and **unified frameworks for large-scale temporal reasoning**.
 
 To realize this vision, my work contributes to the following four directions:
