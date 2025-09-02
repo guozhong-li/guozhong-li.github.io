@@ -19,8 +19,8 @@ I pursue this goal through advances in **shape-based models**, **attention-based
 
 To realize this vision, my work contributes to the following four directions:
 
-- **Interpretable Representations for Temporal Understanding**  
-  Shapelet-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
+- **Interpretable Representations for Efficient Temporal Understanding**  
+  Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
   (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[Hierarchical TS Summarization - Ongoing]*, *[Graph Structure Learning for TSC - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
 
 - **Transformer Architectures for Temporal Modeling**  
