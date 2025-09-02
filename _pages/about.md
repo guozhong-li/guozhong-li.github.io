@@ -19,15 +19,15 @@ I pursue this goal through advances in **shape-based models**, **attention-based
 
 To realize this vision, my work contributes to the following four directions:
 
-- **Interpretable Representations for Efficient Temporal Understanding**  
+- **Efficient Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
   (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[Hierarchical TS Summarization - Ongoing]*, *[Graph Structure Learning for TSC - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
 
-- **Transformer Architectures for Temporal Modeling**  
+- **Transformer for Temporal Modeling**  
   Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
   (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[Tisketcher Transformer - Ongoing]*, *[Shape Transformer for Forecasting - Ongoing]*, *[Efficient Multimodal Transformer - Ongoing]*)
 
-- **Learned Index and Retrieval in Large-scale Time Series**  
+- **Retrieval in Large-scale Time Series**  
   Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
   (*[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*,  *[Compression-Aware Similarity Search - Ongoing]*)
 
