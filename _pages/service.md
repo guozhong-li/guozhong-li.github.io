@@ -24,7 +24,7 @@ author_profile: true
   - *AAAI*: 2026–2023  
   - *IJCAI*: 2025–2024  
   - *ACML*: 2025  
-  - *PAKDD*: 2025–2023
+  - *PAKDD*: 2026–2023
 
 - **Conference Program External Reviewer**
   - *ICDE*: 2025–2024  
