@@ -21,7 +21,7 @@ To realize this vision, my work contributes to the following four directions:
 
 - **Efficient Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
-  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[Hierarchical TS Summarization - Ongoing]*, *[Graph Structure Learning for TSC - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
+  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[Hierarchical TS Summarization](https://github.com/caracallium/htss)*, *[Graph Structure Learning for TSC - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
 
 - **Transformer for Temporal Modeling**  
   Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
