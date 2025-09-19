@@ -9,9 +9,11 @@ redirect_from:
 
 Hi! I am Guozhong Li, currently a Postdoctoral Research Fellow at King Abdullah University of Science and Technology (KAUST), and I am very honored to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). 
 Prior to that, I was fortunate to complete my Ph.D. in Computer Science at Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). 
-I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/) (Ranked 21st worldwide in Databases [(CSRankings, 2015–2025)](https://csrankings.org)).
+I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/).
 
-<!-- Previously, I was a visiting Postdoctoral Research Fellow at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html). -->
+<!-- (Ranked 21st worldwide in Databases [(CSRankings, 2015–2025)](https://csrankings.org)). -->
+
+<!-- Previously, I was a visiting Postdoctoral Research Fellow at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html) and [Paul Boniol](https://boniolp.github.io) . -->
  
 # 🔍 Research
 My research focuses on **efficient and scalable learning**, spanning **modeling, indexing, compression, and reasoning** over dynamic, high-dimensional data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and effectiveness.
