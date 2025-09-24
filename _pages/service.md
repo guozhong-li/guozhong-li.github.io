@@ -9,6 +9,7 @@ author_profile: true
 
 - **Community Service**
   - On behalf of [*DBWorld Moderators*](https://dbworld.sigmod.org/browse.html) (Nov 2021 – Present)
+  - [MenaML 2026](https://www.mena.ml) Application Reviewer
 
 - **Journal Reviewer**
   - *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
