@@ -57,7 +57,7 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023), Oral Paper.</p>
 <h2>2022</h2>
 
 <li><p><i><b style="color: #C89933">[PVLDB]</b> SENSOR: Data-driven Construction of Sketch-based Visual Query Interfaces for Time Series Data. <a href="https://doi.org/10.14778/3554821.3554866">[Paper]</a> <a href="https://www.youtube.com/watch?v=uxF-_v7oiRg"> [Video]</a> </i><br>
-Li Yan, Nerissa Xu, <b>Guozhong Li</b>, Sourav S. Bhowmick, Byron Choi, Jianliang Xu<br>
+<u>Li Yan</u>u>, <u>Nerissa Xu</u>u>, <b>Guozhong Li</b>, Sourav S. Bhowmick, Byron Choi, Jianliang Xu<br>
 Proceedings of the VLDB Endowment (PVLDB), Vol. 15, No. 12, pp. 3650–3653, Sept 2022.</p></li>
 
 <li><p><i><b style="color: #C89933">[ICDE]</b> IPS: Instance Profile for Shapelet Discovery for Time Series Classification. <a href="https://doi.org/10.1109/ICDE53745.2022.00179">[Paper]</a></i><br>
