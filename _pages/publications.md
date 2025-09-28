@@ -51,7 +51,7 @@ Proceedings of the VLDB Endowment (PVLDB), Vol. 17, No. 11, pp. 3229–3242, Aug
 <h2>2023</h2>
 
 <li><p><i><b style="color: #C89933">[AAAI]</b> SVP-T: A Shape-level Variable-Position Transformer for Multivariate Time Series Classification. <a href="https://doi.org/10.1609/aaai.v37i9.26359">[Paper]</a> <a href="https://github.com/rdzuo/svp-transformer">[Code]</a></i><br>
-<u>Rundong Zuo</u>, <b>Guozhong Li</b>, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong<br>
+<u>Rundong Zuo</u>, <b>Guozhong Li†</b>, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong<br>
 The 37th AAAI Conference on Artificial Intelligence (AAAI 2023), Oral Paper.</p></li>
 
 <h2>2022</h2>
