@@ -23,7 +23,7 @@ To realize this vision, my work contributes to the following four directions:
 
 - **Efficient Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
-  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[Hierarchical TS Summarization - Ongoing]*, *[Learned Graph Structure for TSC - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
+  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[Hierarchical TS - Ongoing]*, *[Learned Graph Structure for TSC - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
 
 <!-- HTSS (https://github.com/caracallium/htss), TSketches (https://github.com/rdzuo/tsketches) -->
 
