@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Guozhong Li, currently a Postdoctoral Research Fellow at King Abdullah University of Science and Technology (KAUST), and I am very honored to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). I am also a member of the [ Generative AI Center of Excelence](https://www.kaust.edu.sa/en/research/generative-ai).
+Hi! I am Guozhong Li, currently a Postdoctoral Research Fellow at King Abdullah University of Science and Technology (KAUST), and I am very honored to be advised by [Prof. Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ). 
 Prior to that, I was fortunate to complete my Ph.D. in Computer Science at Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). 
 I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/).
+
+<!-- I am also a member of the [InfoCloud](https://cloud.kaust.edu.sa) the [KAUST Center of Excelence for Generative AI](https://www.kaust.edu.sa/en/research/generative-ai). -->
 
 <!-- (Ranked 21st worldwide in Databases [(CSRankings, 2015–2025)](https://csrankings.org)). -->
 
