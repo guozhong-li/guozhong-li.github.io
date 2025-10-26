@@ -31,7 +31,7 @@ author_profile: true
 
 - **Conference Program External Reviewer**
   - *EDBT*: 2026  
-  - *ICDE*: 2025–2024  
+  - *ICDE*: 2026–2024  
   - *SIGMOD*: 2024  
   - *AAAI*: 2022  
   - *ICDE*: 2022  
