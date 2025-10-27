@@ -25,10 +25,10 @@ author_profile: true
 - - *SIGMOD*: 2026(Demo track)
   - *PVLDB*: 2025(Demo track)  
   - *AAAI*: 2026–2023  
-  - *IJCAI*: 2025–2024  
-  - *ACML*: 2025  
+  - *IJCAI*: 2025–2024
   - *PAKDD*: 2026–2023
-
+  - *ACML*: 2025  
+  
 - **Conference Program External Reviewer**
   - *EDBT*: 2026  
   - *ICDE*: 2026–2024  
