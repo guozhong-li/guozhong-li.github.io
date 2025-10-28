@@ -21,7 +21,7 @@ author_profile: true
 <!--
 <li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression. <a href="https://arxiv.org/abs/xxx">[ArXiv]</a> <a href="https://github.com/guozhong-li/llm4comp">[Code]</a></i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Panos Kalnis<br>
-IEEE International Conference on Big Data (IEEE BigData), Under Reivew, 2025.</p></li>
+IEEE International Conference on Big Data (IEEE BigData), Accepted, 2025.</p></li>
 -->
 
 <!--
