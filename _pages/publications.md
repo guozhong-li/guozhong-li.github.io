@@ -30,7 +30,10 @@ IEEE International Conference on Big Data (IEEE BigData), Accepted, 2025.</p></l
 Proceedings of the VLDB Endowment (PVLDB), Under Reivew, 2025.</p></li>
 -->
 
-<li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression. </i><br>
+
+
+
+<li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression.<a href="https://arxiv.org/abs/2510.23632">[ArXiv]</a> </i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Panos Kalnis<br>
 IEEE International Conference on Big Data (IEEE BigData), Accepted, 2025.</p></li>
 
