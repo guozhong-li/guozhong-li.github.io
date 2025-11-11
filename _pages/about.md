@@ -39,7 +39,7 @@ To realize this vision, my work contributes to the following four directions:
 
 - **Error-bounded Compression for Scientific/Spatialtemporal Data**  
   Leverage temporal graphs and LLMs to design frameworks that support controllable, error-bounded scientific data compression.   
-  (*[GraphCom: ArXiv](https://arxiv.org/abs/2505.06316)*, *[LLMComp](https://arxiv.org/abs/2510.23632)*, *[LSTComp - Ongoing]*, *[SemanticComp - Ongoing]*)
+  (*[GraphCom: ArXiv](https://arxiv.org/abs/2505.06316)*, *[LLMComp: IEEE BigData'25](https://arxiv.org/abs/2510.23632)*, *[LSTComp - Ongoing]*, *[SemanticComp - Ongoing]*)
 
 <!-- 
 - **Generative Forecasting for Climate Data**  
