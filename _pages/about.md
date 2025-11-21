@@ -25,13 +25,13 @@ To realize this vision, my work contributes to the following four directions:
 
 - **Efficient Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
-  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*, *[Hierarchical TS Abstraction- Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*, *[Learned Graph Structure for TSC - Ongoing]*, [Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)* )
+  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[Learned Graph Structure for TSC - Ongoing]*, *[Hierarchical TS Abstraction- Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
 
 <!-- HTSS (https://github.com/caracallium/htss), TSketches (https://github.com/rdzuo/tsketches) -->
 
 - **Transformer for Temporal Modeling**  
   Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
-  (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[Time Series Tokens for Transformer - Ongoing]*, *[Symbolic-Aware Transformer for Forecasting - Ongoing]*, *[Efficient Multimodal Transformer - Ongoing]*)
+  (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[Symbolic-Aware Transformer for Forecasting - Ongoing]*, *[Time Series Tokens for Transformer - Ongoing]*, *[Efficient Multimodal Transformer - Ongoing]*)
 
 - **Retrieval in Large-scale Time Series**  
   Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
