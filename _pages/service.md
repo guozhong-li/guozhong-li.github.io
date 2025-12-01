@@ -19,6 +19,7 @@ author_profile: true
   - *IEEE Transactions on Intelligent Vehicles (TIV)*
 
 - **Conference Program Session Chair**
+  - *BigData 2025*
   - *CIKM 2020*
 
 - **Conference Program Committee (PC) Member**
