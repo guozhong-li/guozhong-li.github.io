@@ -31,7 +31,7 @@ To realize this vision, my work contributes to the following four directions:
 
 - **Transformer for Temporal Modeling**  
   Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
-  (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[SymbFormer](https://github.com/3J15/symbformer)*, *[Time Series Tokens for Transformer - Ongoing]*, *[Efficient Multimodal Transformer - Ongoing]*)
+  (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[Symbolic Transformer for Time Series Forecasting - Ongoing]*, *[Time Series Tokens for Transformer - Ongoing]*, *[Efficient Multimodal Transformer - Ongoing]*)
 
 - **Retrieval in Large-scale Time Series**  
   Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
