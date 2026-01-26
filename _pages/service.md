@@ -9,7 +9,7 @@ author_profile: true
 
 - **Community Service**
   - On behalf of [*DBWorld Moderators*](https://dbworld.sigmod.org/browse.html) (Nov 2021 – Present)
-  - [KAUST Rising Stars in AI Symposium](https://kaust.edu.sa/events/rsais26/), Scientific Committee, 2026
+  - [KAUST Rising Stars in AI Symposium](https://kaust.edu.sa/events/rsais26/), Scientific Committee & Chair, 2026
   - [MenaML 2026](https://www.mena.ml), Application Reviewer
 
 - **Journal Reviewer**
@@ -19,7 +19,6 @@ author_profile: true
   - *IEEE Transactions on Intelligent Vehicles (TIV)*
 
 - **Conference Program Session Chair**
-  - *KAUST Rising Stars in AI Symposium 2026*
   - *BigData 2025*
   - *CIKM 2020*
 
