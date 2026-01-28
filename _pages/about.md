@@ -21,11 +21,11 @@ I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~d
 My research focuses on **efficient and scalable learning**, spanning **modeling, indexing, compression, and reasoning** over dynamic, high-dimensional data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and effectiveness.
 I pursue this goal through advances in **shape-based learning**, **efficient transformers**, **symbolic indexing**, **graph-driven representations**, and **unified frameworks for large-scale temporal reasoning**.
 
-To realize this vision, my work contributes to the following five directions:
+To realize this vision, my work contributes to the following directions:
 
-- **Efficient Temporal Understanding**  
+- **Representation Learning for Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
-  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[Learned Graph Structure for TSC - Ongoing]*, *[Hierarchical TS Abstraction- Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
+  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*, *[Learned Graph Structure for TSC - Ongoing]*, *[Hierarchical TS Abstraction- Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
 
 <!-- HTSS (https://github.com/caracallium/htss), TSketches (https://github.com/rdzuo/tsketches) -->
 
@@ -33,9 +33,10 @@ To realize this vision, my work contributes to the following five directions:
   Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
   (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[Symbolic Transformer for Time Series Forecasting - Ongoing]*, *[LLM for TSF - Ongoing]*, *[Time Series Tokens for Transformer - Ongoing]*, *[Efficient Multimodal Transformer - Ongoing]*)
 
-- **Retrieval in Large-scale Time Series**  
+<!-- - **Retrieval in Large-scale Time Series**  
   Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
   (*[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*,  *[Compression-Aware Similarity Search - Ongoing]*)
+   -->
 
 - **Error-bounded Compression for Scientific/Spatialtemporal Data**  
   Leverage temporal graphs and LLMs to design frameworks that support controllable, error-bounded scientific data compression.   
