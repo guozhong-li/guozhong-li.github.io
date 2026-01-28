@@ -42,8 +42,8 @@ To realize this vision, my work contributes to the following five directions:
   (*[GraphCom: ArXiv](https://arxiv.org/abs/2505.06316)*, *[LLMComp: BigData'25](https://arxiv.org/abs/2510.23632)*, *[LSTComp - Ongoing]*, *[SemanticComp - Ongoing]*)
 
 - **Efficient Inference and Coordination in LLMs**  
-  System-level techniques to accelerate inference and enhance interaction among large language models. Recent work includes KV cache optimization, attention runtime control, and multi-model collaboration for long-context understanding and retrieval-augmented generation.
-  (*[CHESS - Ongoing]*, *[ART - Ongoing]*, *[KVDist - Ongoing]*)
+  System-level techniques to accelerate inference and enhance interaction among large language models. Recent work includes KV cache optimization, attention runtime control, and multi-model collaboration for long-context understanding and retrieval-augmented generation.   
+ (*[CHESS - Ongoing]*, *[ART - Ongoing]*, *[KVDist - Ongoing]*)
 
 
 <!-- 
