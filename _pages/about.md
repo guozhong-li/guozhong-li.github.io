@@ -23,7 +23,7 @@ I pursue this goal through advances in **shape-based learning**, **efficient tra
 
 To realize this vision, my work contributes to the following directions:
 
-- **Representation Learning for Temporal Understanding**  
+- **Representation for Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
   (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*, *[Learned Graph Structure for TSC - Ongoing]*, *[Hierarchical TS Abstraction- Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
 
