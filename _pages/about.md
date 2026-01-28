@@ -21,7 +21,7 @@ I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~d
 My research focuses on **efficient and scalable learning**, spanning **modeling, indexing, compression, and reasoning** over dynamic, high-dimensional data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and effectiveness.
 I pursue this goal through advances in **shape-based learning**, **efficient transformers**, **symbolic indexing**, **graph-driven representations**, and **unified frameworks for large-scale temporal reasoning**.
 
-To realize this vision, my work contributes to the following four directions:
+To realize this vision, my work contributes to the following five directions:
 
 - **Efficient Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
@@ -40,6 +40,11 @@ To realize this vision, my work contributes to the following four directions:
 - **Error-bounded Compression for Scientific/Spatialtemporal Data**  
   Leverage temporal graphs and LLMs to design frameworks that support controllable, error-bounded scientific data compression.   
   (*[GraphCom: ArXiv](https://arxiv.org/abs/2505.06316)*, *[LLMComp: BigData'25](https://arxiv.org/abs/2510.23632)*, *[LSTComp - Ongoing]*, *[SemanticComp - Ongoing]*)
+
+- **Efficient Inference and Coordination in LLMs**  
+  System-level techniques to accelerate inference and enhance interaction among large language models. Recent work includes KV cache optimization, attention runtime control, and multi-model collaboration for long-context understanding and retrieval-augmented generation.
+  (*[CHESS - Ongoing]*, *[ART - Ongoing]*, *[KVDist - Ongoing]*)
+
 
 <!-- 
 - **Generative Forecasting for Climate Data**  
