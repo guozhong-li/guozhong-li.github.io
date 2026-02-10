@@ -44,7 +44,7 @@ To realize this vision, my work contributes to the following directions:
 
 - **Efficient Inference and Coordination in LLMs**  
   System-level techniques to accelerate inference and enhance interaction among large language models, including KV cache optimization, attention runtime control, and multi-model collaboration.   
- (*[CHESS - Ongoing]*, *[ART - Ongoing]*, *[KVDist - Ongoing]*)
+ (*[CHESS - Ongoing]*, *[ART - Ongoing]*, *[KV-cache ORCHestrator - Ongoing]*, *[KVDist - Ongoing]*)
 
 
 <!-- 
