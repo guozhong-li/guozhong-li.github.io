@@ -15,6 +15,7 @@ author_profile: true
 - **Journal Reviewer**
   - *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
   - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+  - *IEEE Transactions on Big Data (TBD)*
   - *IEEE Transactions on Cybernetics (TCYB)*
   - *IEEE Transactions on Intelligent Vehicles (TIV)*
 
