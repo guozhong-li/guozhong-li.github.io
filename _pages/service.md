@@ -25,7 +25,7 @@ author_profile: true
   - *CIKM 2020*
 
 - **Conference Program Committee (PC) Member**
-  - 2026: SIGMOD(Demo track), PVLDB(Demo track), SIGKDD, ICML, AAAI, IJCAI, PAKDD
+  - 2026: SIGMOD(Demo track), PVLDB(Demo track), SIGKDD, ICML, AAAI, PAKDD
   - 2025: PVLDB(Demo track), AAAI, IJCAI, PAKDD, ACML
   - 2024: AAAI, IJCAI, PAKDD
   - 2023: AAAI, PAKDD
