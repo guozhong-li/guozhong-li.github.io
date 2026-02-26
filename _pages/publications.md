@@ -12,12 +12,6 @@ author_profile: true
 
 
 
-<h2>Selected Publications</h2>
-
-<ol>
-
-<h2>2025</h2>
-
 <!--
 <li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression. <a href="https://arxiv.org/abs/xxx">[ArXiv]</a> <a href="https://github.com/guozhong-li/llm4comp">[Code]</a></i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Panos Kalnis<br>
@@ -31,6 +25,21 @@ Proceedings of the VLDB Endowment (PVLDB), Under Reivew, 2025.</p></li>
 -->
 
 
+
+
+
+<h2>Selected Publications</h2>
+
+<ol>
+
+<h2>2026</h2>
+
+<li><p><i><b style="color: #C89933">[ICML]</b> CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference.<a href="https://arxiv.org/pdf/2602.20732">[ArXiv]</a> <a href="https://anonymous.4open.science/r/CHESS-9958/README.md">[Code]</a></i><br>
+<u>Chao Fei</u>, <b>Guozhong Li</b>, Chenxi Liu, Panos Kalnis<br>
+International Conference on Machine Learning, Under Reivew, 2026.</p></li>
+
+
+<h2>2025</h2>
 
 
 <li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression.<a href="https://arxiv.org/abs/2510.23632">[ArXiv]</a> </i><br>
