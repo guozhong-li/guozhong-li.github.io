@@ -34,6 +34,10 @@ Proceedings of the VLDB Endowment (PVLDB), Under Reivew, 2025.</p></li>
 
 <h2>2026</h2>
 
+<li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/2505.06316">[ArXiv]</a> <a href="https://github.com/guozhong-li/GraphComp">[Code]</a></i><br>
+<b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE), Accepted, 2026.</p></li>
+
 <li><p><i><b style="color: #C89933">[Under Reivew]</b> CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference.<a href="https://arxiv.org/pdf/2602.20732">[ArXiv]</a> <a href="https://anonymous.4open.science/r/CHESS-9958/README.md">[Code]</a></i><br>
 <u>Chao Fei</u>, <b>Guozhong Li</b>, Chenxi Liu, Panos Kalnis<br>
 International Conference on Machine Learning, Under Reivew, 2026.</p></li>
@@ -44,10 +48,6 @@ International Conference on Machine Learning, Under Reivew, 2026.</p></li>
 <li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression.<a href="https://arxiv.org/abs/2510.23632">[ArXiv]</a> </i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Panos Kalnis<br>
 IEEE International Conference on Big Data (IEEE BigData), Accepted, 2025.</p></li>
-
-<li><p><i><b style="color: #C89933">[Under Reivew]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/2505.06316">[ArXiv]</a> <a href="https://github.com/guozhong-li/GraphComp">[Code]</a></i><br>
-<b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE), Under Reivew, 2025.</p></li>
 
 <li><p><i><b style="color: #C89933">[ICDE]</b> leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search. <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic">[Paper] </a> <a href="https://bitbucket.org/busnow/lesax/src/main/">[Code]</a></i><br>
 <b>Guozhong Li</b>, Byron Choi, Rundong Zuo, Sourav S. Bhowmick, Jianliang Xu<br>
