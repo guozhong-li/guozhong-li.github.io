@@ -54,7 +54,7 @@ To realize this vision, my work contributes to the following directions:
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉 One paper has been accepted at TKDE!
+- *2026.04*: &nbsp;🎉 One paper has been accepted by TKDE!
 
 
 
