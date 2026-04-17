@@ -51,7 +51,12 @@ To realize this vision, my work contributes to the following directions:
 - **Generative Forecasting for Climate Data**  
   Generative models (e.g., GANs, diffusion models, and LLMs) for high-resolution forecasting on reanalysis datasets (e.g., ERA5). 
  -->
- 
+
+ # 🔥 News
+- *2026.04*: &nbsp;🎉 One paper has been accepted at TKDE!
+
+
+
 # 🎓 Education
 
 - <img src="/images/hkbu-logo.png" alt="HKBU" width="26" style="vertical-align: middle; margin-right: 8px;"> **Ph.D. in Computer Science**, Hong Kong Baptist University (HKBU), Hong Kong SAR, China  
