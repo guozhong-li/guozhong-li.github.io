@@ -52,7 +52,8 @@ To realize this vision, my work contributes to the following directions:
   Generative models (e.g., GANs, diffusion models, and LLMs) for high-resolution forecasting on reanalysis datasets (e.g., ERA5). 
  -->
 
- # 🔥 News
+
+# 🔥 News
 - *2026.04*: &nbsp;🎉 One paper has been accepted at TKDE!
 
 
