@@ -40,7 +40,7 @@ To realize this vision, my work contributes to the following directions:
 
 - **Error-bounded Compression for Scientific/Spatialtemporal Data**  
   Leverage temporal graphs and LLMs to design frameworks that support controllable, error-bounded scientific data compression.   
-  (*[GraphCom: TKDE‘26](https://arxiv.org/abs/2505.06316)*, *[LLMComp: BigData'25](https://arxiv.org/abs/2510.23632)*, *[LSTComp - Ongoing]*, *[SemanticComp - Ongoing]*)
+  (*[GraphCom: TKDE‘26](https://arxiv.org/abs/2505.06316)*, *[LLMComp: BigData'25](https://arxiv.org/abs/2510.23632)*, *[LSDComp - Ongoing]*, *[SemanticComp - Ongoing]*)
 
 - **Efficient Inference and Coordination in LLMs**  
   System-level techniques to accelerate inference and enhance interaction among large language models, including KV cache optimization, attention runtime control, and multi-model collaboration.   
