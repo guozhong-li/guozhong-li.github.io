@@ -25,9 +25,9 @@ To realize this vision, my work contributes to the following directions:
 
 - **Representation for Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
-  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*, *[Hierarchical TS Abstraction: KDD'26]*, *[Learned Graph Structure for TSC - Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
+  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*, *[Hierarchical TS Abstraction: KDD'26](https://github.com/caracallium/htss)*, *[Learned Graph Structure for TSC - Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
 
-<!-- HTSS (https://github.com/caracallium/htss), TSketches (https://github.com/rdzuo/tsketches) -->
+<!-- TSketches (https://github.com/rdzuo/tsketches) -->
 
 - **Transformer for Temporal Modeling**  
   Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
@@ -54,7 +54,7 @@ To realize this vision, my work contributes to the following directions:
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 One paper [HTSA](https://arxiv.org/abs/XXX) has been accepted by KDD 2026!
+- *2026.05*: &nbsp;🎉 One paper [HTSA](https://github.com/caracallium/htss) has been accepted by KDD 2026!
 - *2026.04*: &nbsp;🎉 One paper [GraphComp](https://arxiv.org/abs/2505.06316) has been accepted by TKDE!
 
 
