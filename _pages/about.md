@@ -54,6 +54,7 @@ To realize this vision, my work contributes to the following directions:
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 One paper [HTSA](https://arxiv.org/abs/XXX) has been accepted by KDD 2026!
 - *2026.04*: &nbsp;🎉 One paper [GraphComp](https://arxiv.org/abs/2505.06316) has been accepted by TKDE!
 
 
