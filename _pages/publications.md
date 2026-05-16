@@ -11,11 +11,9 @@ author_profile: true
 <!-- "*" equal contribution, -->
 
 
-<!--
-<li><p><i><b style="color: #C89933">[PVLDB]</b> From Flat to Hierarchical: Structure-Aware Summarization of Time Series. </i><br>
-<u>Yihan Wu*</u>, Xuliang Zhu*, <b>Guozhong Li</b>, Kai Wang, Xueming Lin<br>
-Proceedings of the VLDB Endowment (PVLDB), Under Reivew, 2025.</p></li>
--->
+<!-- <li><p><i><b style="color: #C89933">[Under Reivew]</b> CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference.<a href="https://arxiv.org/pdf/2602.20732">[ArXiv]</a> <a href="https://anonymous.4open.science/r/CHESS-9958/README.md">[Code]</a></i><br>
+<u>Chao Fei</u>, <b>Guozhong Li</b>, Chenxi Liu, Panos Kalnis<br>
+International Conference on Machine Learning, Under Reivew, 2026.</p></li> -->
 
 
 
@@ -25,10 +23,9 @@ Proceedings of the VLDB Endowment (PVLDB), Under Reivew, 2025.</p></li>
 
 <h2>2026</h2>
 
-
-<!-- <li><p><i><b style="color: #C89933">[Under Reivew]</b> CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference.<a href="https://arxiv.org/pdf/2602.20732">[ArXiv]</a> <a href="https://anonymous.4open.science/r/CHESS-9958/README.md">[Code]</a></i><br>
-<u>Chao Fei</u>, <b>Guozhong Li</b>, Chenxi Liu, Panos Kalnis<br>
-International Conference on Machine Learning, Under Reivew, 2026.</p></li> -->
+<li><p><i><b style="color: #C89933">[KDD]</b> From Flat to Hierarchical: Structure-Aware Summarization of Time Series. </i><br>
+<u>Yihan Wu</u>, <b>Xuliang Zhu<sup>†</sup></b>, <b>Guozhong Li<sup>†</sup></b>, Kai Wang, Xueming Lin<br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.</p></li>
 
 <li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/2505.06316">[ArXiv]</a> <a href="https://github.com/guozhong-li/GraphComp">[Code]</a></i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
