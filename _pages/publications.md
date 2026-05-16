@@ -25,7 +25,7 @@ International Conference on Machine Learning, Under Reivew, 2026.</p></li> -->
 
 <li><p><i><b style="color: #C89933">[KDD]</b> From Flat to Hierarchical: Structure-Aware Summarization of Time Series. </i><br>
 <u>Yihan Wu</u>, <b>Xuliang Zhu<sup>†</sup></b>, <b>Guozhong Li<sup>†</sup></b>, Kai Wang, Xueming Lin<br>
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.</p></li>
+Proceedings of ACM Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.</p></li>
 
 <li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/2505.06316">[ArXiv]</a> <a href="https://github.com/guozhong-li/GraphComp">[Code]</a></i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
