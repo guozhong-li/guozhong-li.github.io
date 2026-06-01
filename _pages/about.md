@@ -81,15 +81,8 @@ To realize this vision, my work contributes to the following directions:
 - IBM-CSC Scholarship, IBM & Chinese Scholarship Council, 2015.
 - National Scholarship, Ministry of Education, P.R.China. 2011, 2012, 2013,2016.
 
-<!-- MapMyVisitors Globe (Hidden) -->
-<div style="display: none;">
-  <script
-      type="text/javascript"
-      id="mmvst_globe"
-      src="//mapmyvisitors.com/globe.js?d=jqyISbkh_4uAHOFO4RVebQlYK8Cuz1RJNqL7-MBHdY0">
-  </script>
-</div>
 
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=jqyISbkh_4uAHOFO4RVebQlYK8Cuz1RJNqL7-MBHdY0"></script>
 
 <!-- # 🌍 Pageviews  -->
 <!-- ClustrMaps 3D Globe -->
