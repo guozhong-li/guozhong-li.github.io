@@ -18,6 +18,7 @@ author_profile: true
   - *IEEE Transactions on Big Data (TBD)*
   - *IEEE Transactions on Cybernetics (TCYB)*
   - *IEEE Transactions on Intelligent Vehicles (TIV)*
+  - *Data Science and Engineering (DSE)*
 
 - **Conference Program Session Chair**
   - *KAUST Rising Stars in AI Symposium 2026*
