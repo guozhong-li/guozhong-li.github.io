@@ -83,15 +83,21 @@ To realize this vision, my work contributes to the following directions:
 
 
 <!-- MapMyVisitors Globe (Hidden) -->
+
 <!-- # 🌍 Pageviews  -->
 <!-- ClustrMaps 3D Globe -->
-<!-- <div style="width: 200px; height: 200px; margin: 20px auto;">  -->
-
-<div style="display: none;">
-  <script 
+<!--   <script 
         type="text/javascript" 
         id="clstr_globe" 
-        src="//mapmyvisitors.com/globe.js?d=jqyISbkh_4uAHOFO4RVebQlYK8Cuz1RJNqL7-MBHdY0">
-        <!-- src="//clustrmaps.com/globe.js?d=DDs_hE9lk7PsU1ZRky_FBGAQEjLxZigiUUzWOwowD6U"> -->
-    </script>
+        src="//clustrmaps.com/globe.js?d=DDs_hE9lk7PsU1ZRky_FBGAQEjLxZigiUUzWOwowD6U">
+    </script> -->
+<!-- <div style="width: 200px; height: 200px; margin: 20px auto;">  -->
+
+
+<div style="display: none;">
+<script 
+  type="text/javascript" 
+  id="mapmyvisitors" 
+  src="//mapmyvisitors.com/map.js?d=LX-XU5v2AyHvdAz7Ic3cWsBeguE789rOYyRa8FFlsXk&cl=ffffff&w=a">
+  </script>
 </div>
