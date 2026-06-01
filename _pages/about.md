@@ -82,7 +82,14 @@ To realize this vision, my work contributes to the following directions:
 - National Scholarship, Ministry of Education, P.R.China. 2011, 2012, 2013,2016.
 
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=jqyISbkh_4uAHOFO4RVebQlYK8Cuz1RJNqL7-MBHdY0"></script>
+<!-- MapMyVisitors Globe (Hidden) -->
+<div style="display: none;">
+  <script
+      type="text/javascript"
+      id="mmvst_globe"
+      src="//mapmyvisitors.com/globe.js?d=jqyISbkh_4uAHOFO4RVebQlYK8Cuz1RJNqL7-MBHdY0">
+  </script>
+</div>
 
 <!-- # 🌍 Pageviews  -->
 <!-- ClustrMaps 3D Globe -->
