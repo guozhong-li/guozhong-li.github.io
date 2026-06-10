@@ -24,7 +24,7 @@ International Conference on Machine Learning, Under Reivew, 2026.</p></li> -->
 <h2>2026</h2>
 
 <li><p><i><b style="color: #C89933">[ICDE]</b> TSTUDIO: Efficient Discovery of Semantic Tokens for Long Time Series Transformers. <a href="[https://github.com/rdzuo/tsketch]">[Paper]</a>  <a href="[https://github.com/rdzuo/tsketch]">[Code]</a>  </i><br>
-<u>Rundong Zuo</u>, Rui Cao, <b>Guozhong Li</b>, Byron Choi, Sourav S. Bhowmick, Jianliang Xu<br>
+<u>Rundong Zuo</u>, Rui Cao, <b>Guozhong Li</b>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick <br>
 IEEE International Conference on Data Engineering (ICDE), Under Review, 2026.</p></li>
 
 <li><p><i><b style="color: #C89933">[ICDE]</b> Efficient Cross-modal Attention Learning for Multimodal Time Series Forecasting. <a href="[https://github.com/csrcao/LEO.git]">[Paper]</a>  <a href="[https://github.com/csrcao/LEO.git]">[Code]</a>  </i><br>
