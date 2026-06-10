@@ -23,6 +23,11 @@ International Conference on Machine Learning, Under Reivew, 2026.</p></li> -->
 
 <h2>2026</h2>
 
+<li><p><i><b style="color: #C89933">[EDBT]</b> Can Deep Neural Networks Improve Compression of Very Large Scientific Data? <a href="[https://github.com/caracallium/htsa](https://github.com/Muhannadx/ForecastingForCompression)">[Paper]</a>  <a href="[https://github.com/caracallium/htsa](https://github.com/Muhannadx/ForecastingForCompression)">[Code]</a>  </i><br>
+Muhannad Alhumaidi, <b>Guozhong Li</b>, Spiros Skiadopoulos, Panos Kalnis<br>
+International Conference on Extending Database Technology (EDBT), Under Review, 2026.</p></li>
+
+
 <li><p><i><b style="color: #C89933">[KDD]</b> Structure-Aware Abstraction of Hierarchical Time Series. <a href="https://github.com/caracallium/htsa">[Paper]</a>  <a href="https://github.com/caracallium/htsa">[Code]</a>  <a href="https://zenodo.org/records/20560396">[Zenodo]</a> </i><br>
 <u>Yihan Wu</u>, Xuliang Zhu<sup>†</sup>, <b>Guozhong Li<sup>†</sup></b>, Kai Wang, Xueming Lin<br>
 Proceedings of ACM Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.</p></li>
