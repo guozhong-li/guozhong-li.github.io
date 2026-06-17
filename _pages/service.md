@@ -25,7 +25,7 @@ author_profile: true
   - *BigData 2025*
   - *CIKM 2020*
 
-- **Conference Program Committee (PC) Member**
+- **Conference Program Committee (PC) Member/Reviewers**
   - 2027: PVLDB, IJCNN
   - 2026: SIGMOD(Demo track), PVLDB(Demo track), SIGKDD, ICML, AAAI, NeurIPS, PAKDD, BigData
   - 2025: PVLDB(Demo track), AAAI, IJCAI, PAKDD, ACML
