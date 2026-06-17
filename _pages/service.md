@@ -27,7 +27,7 @@ author_profile: true
 
 - **Conference Program Committee (PC) Member**
   - 2027：PVLDB, IJCNN
-  - 2026: SIGMOD(Demo track), PVLDB(Demo track), SIGKDD, ICML, AAAI, PAKDD
+  - 2026: SIGMOD(Demo track), PVLDB(Demo track), SIGKDD, ICML, AAAI, PAKDD, BigData
   - 2025: PVLDB(Demo track), AAAI, IJCAI, PAKDD, ACML
   - 2024: AAAI, IJCAI, PAKDD
   - 2023: AAAI, PAKDD
