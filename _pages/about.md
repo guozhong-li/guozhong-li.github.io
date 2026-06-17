@@ -25,13 +25,13 @@ To realize this vision, my work contributes to the following directions:
 
 - **Representation for Temporal Understanding**  
   Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
-  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*, *[Hierarchical TS Abstraction: KDD'26](https://github.com/caracallium/htss)*, *[Learned Graph Structure for TSC - Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
+  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*, *[Hierarchical TS Abstraction: KDD'26](https://github.com/caracallium/htss)*, *[Learned Graph Structure for TSC - Ongoing]*, *[Privacy-Preserving for TSSS - Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
 
 <!-- TSketches (https://github.com/rdzuo/tsketches) -->
 
 - **Transformer for Temporal Modeling**  
   Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
-  (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[Symbolic Transformer for Time Series Forecasting - Ongoing]*, *[Time Series Tokens for Transformer - Ongoing](https://github.com/rdzuo/tsketch)*, *[Efficient Multimodal Transformer - Ongoing](https://github.com/csrcao/LEO.git)*, *[Time Series Foundation Model for Forecasting - Ongoing]*, *[Time Series Foundation Model for Classification - Ongoing]*, *[Segmentation for TS Forecasting - Ongoing]*)
+  (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[Symbolic Transformer for Time Series Forecasting - Ongoing]*, *[Time Series Tokens for Transformer - Ongoing](https://github.com/rdzuo/tsketch)*, *[Efficient Multimodal Transformer - Ongoing](https://github.com/csrcao/LEO.git)*, *[Time Series Foundation Model for Forecasting - Ongoing]*, *[Time Series Latent Space for Forecasting - Ongoing]*, *[Time Series Foundation Model for Classification - Ongoing]*, *[Segmentation for TS Forecasting - Ongoing]*)
 
 <!-- - **Retrieval in Large-scale Time Series**  
   Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
@@ -40,7 +40,7 @@ To realize this vision, my work contributes to the following directions:
 
 - **Error-bounded Compression for Scientific/Spatialtemporal Data**  
   Leverage temporal graphs and LLMs to design frameworks that support controllable, error-bounded scientific data compression.   
-  (*[GraphComp: TKDE‘26](https://arxiv.org/abs/2505.06316)*, *[LLMComp: BigData'25](https://arxiv.org/abs/2510.23632)*, *[DNN4LSDC - Ongoing](https://github.com/Muhannadx/ForecastingForCompression)*, *[LSDComp - Ongoing]*, *[SemanticComp - Ongoing]*)
+  (*[GraphComp: TKDE‘26](https://arxiv.org/abs/2505.06316)*, *[LLMComp: BigData'25](https://arxiv.org/abs/2510.23632)*, *[DNN4LSDC - Ongoing](https://github.com/Muhannadx/ForecastingForCompression)*, *[LSDComp - Ongoing]*, *[Learn what to decode - Ongoing]*)
 
 - **Efficient Inference and Coordination in LLMs**  
   System-level techniques to accelerate inference and enhance interaction among large language models, including KV cache optimization, attention runtime control, and multi-model collaboration.   
