@@ -33,7 +33,8 @@ author_profile: true
   - 2023: AAAI, PAKDD
   
 - **Conference Program External Reviewer**
-  - *ICDE*: 2026–2024  
+  - *ICDE*: 2026–2024
+  - *ICDM*: 2026   
   - *EDBT*: 2026   
   - *SIGMOD*: 2024  
   - *AAAI*: 2022  
