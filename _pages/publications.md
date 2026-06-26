@@ -25,10 +25,10 @@ International Conference on Machine Learning, Under Reivew, 2026.</p></li> -->
 <u>Rundong Zuo</u>, Rui Cao, <b>Guozhong Li</b>, Byron Choi, Sourav S. Bhowmick <br>
 IEEE International Conference on Data Engineering (ICDE), Under Review, 2026.</p></li>
 
-<!-- <li><p><i><b style="color: #C89933">[ICDE]</b> Efficient Cross-modal Attention Learning for Multimodal Time Series Forecasting.
+<li><p><i><b style="color: #C89933">[ICDE]</b> Efficient Cross-modal Attention Learning for Multimodal Time Series Forecasting.
 <a href="https://github.com/csrcao/LEO.git">[Paper]</a>  <a href="https://github.com/csrcao/LEO.git">[Code]</a>  </i><br>
 <u>Rui Cao</u>, Rundong Zuo, <b>Guozhong Li</b>, Byron Choi, Yafei Li, Renchi Yang<br>
-IEEE International Conference on Data Engineering (ICDE), Under Review, 2026.</p></li> -->
+IEEE International Conference on Data Engineering (ICDE), Under Review, 2026.</p></li>
 
 <li><p><i><b style="color: #C89933">[EDBT]</b> Can Deep Neural Networks Improve Compression of Very Large Scientific Data? 
 <a href="https://github.com/Muhannadx/ForecastingForCompression">[Paper]</a>  <a href="https://github.com/Muhannadx/ForecastingForCompression">[Code]</a>  </i><br>
