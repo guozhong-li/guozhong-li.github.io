@@ -16,6 +16,7 @@ author_profile: true
   - *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
   - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
   - *IEEE Transactions on Big Data (TBD)*
+  - *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
   - *IEEE Transactions on Cybernetics (TCYB)*
   - *IEEE Transactions on Intelligent Vehicles (TIV)*
   - *Data Science and Engineering (DSE)*
