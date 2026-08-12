@@ -21,7 +21,7 @@ International Conference on Machine Learning, Under Reivew, 2026.</p></li> -->
 <ol>
 
 <li><p><i><b style="color: #C89933">[arXiv]</b> KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models. 
-<a href="https://arxiv.org/abs/2608.09412">[Paper]</a></i><br>
+<a href="https://arxiv.org/abs/2608.09412">[Paper]</a> <a href="https://github.com/ChosenQC/KVDiagnosis">[Code]</a></i><br>
 Chen Qiu, Ziwu Liu, Chao Fei, <b>Guozhong Li</b>, Panos Kalnis<br> </p></li>
 
 <li><p><i><b style="color: #C89933">[ICDE]</b> TSTUDIO: Efficient Discovery of Semantic Tokens for Long Time Series Transformers. 
