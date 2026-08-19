@@ -37,7 +37,7 @@ redirect_from:
     </div>
     <div class="homepage-news-list">
       <article class="homepage-news-item">
-        <time datetime="2026-07">2026.07</time>
+        <time datetime="2026-08">2026.08</time>
         <p>Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis</a> is now available on arXiv.</p>
       </article>
       <article class="homepage-news-item">
