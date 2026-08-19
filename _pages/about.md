@@ -139,6 +139,7 @@ redirect_from:
       <h2 id="homepage-honors-title">🎖 Honors &amp; Awards</h2>
       <ul class="homepage-honors-list">
         <li><span>Research Performance Award · HKBU</span><time>2020–2021</time></li>
+        <li><span>Travelling Allowance for Postgraduate Overseas Attachment Programme · HKBU</span><time>2020</time></li>
         <li><span>Excellent Teaching Assistant Performance Award · HKBU</span><time>2018–2019</time></li>
         <li><span>Teaching Assistant Performance Award · HKBU</span><time>2017–2019</time></li>
       </ul>
