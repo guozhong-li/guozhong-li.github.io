@@ -41,3 +41,52 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Compact publisher links used in research and publication lists. */
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 0.85rem;
+  margin-top: 0.4rem;
+  font-size: 0.9em;
+}
+
+.pub-links__label {
+  color: var(--global-text-color-light);
+  font-weight: 600;
+}
+
+.pub-links a,
+.paper-source,
+.research-ongoing a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+}
+
+.pub-links .ai,
+.pub-links .fab,
+.paper-source .ai,
+.research-ongoing .fab {
+  color: var(--global-link-color);
+  font-size: 1.05em;
+}
+
+.pub-venue {
+  padding: 0.05rem 0.22rem;
+  border: 1px solid var(--global-link-color);
+  border-radius: 2px;
+  color: var(--global-link-color);
+  font-size: 0.62em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 1.25;
+}
+
+.research-ongoing {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--global-text-color-light);
+  font-size: 0.9em;
+}

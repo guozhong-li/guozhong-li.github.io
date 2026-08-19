@@ -18,46 +18,34 @@ I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~d
 <!-- Previously, I was a visiting Postdoctoral Research Fellow at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html) and [Paul Boniol](https://boniolp.github.io) . -->
  
 # 🔍 Research
-My research focuses on **efficient and scalable learning**, spanning **modeling, indexing, compression, and reasoning** over dynamic, high-dimensional data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and effectiveness.
-I pursue this goal through advances in **shape-based learning**, **efficient transformers**, **symbolic indexing**, **graph-driven representations**, and **unified frameworks for large-scale temporal reasoning**.
+My research focuses on **efficient, scalable, and privacy-aware methods** for representing, searching, compressing, and reasoning over temporal and high-dimensional data. My work spans **temporal learning**, **similarity search**, **scientific data compression**, and **efficient large language model systems**.
 
 To realize this vision, my work contributes to the following directions:
 
-- **Representation for Temporal Understanding**  
-  Shape-based models and instance profile techniques are developed to enable scalable and explainable time series analysis.   
-  (*[ShapeNet: AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17018)*,[Autoshape: ArXiv](https://arxiv.org/abs/2208.04313), *[IPS: ICDE'22](https://ieeexplore.ieee.org/document/9835498)*, *[BSPCover: TKDE'22](https://ieeexplore.ieee.org/document/9096567)*, *[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*, *[Hierarchical TS Abstraction: KDD'26](https://github.com/caracallium/htss)*, *[Learned Graph Structure for TSC - Ongoing]*, *[Privacy-Preserving for TSSS - Ongoing]*, *[Hierarchical TS Anomaly Detection- Ongoing]*)
+- **Temporal Representation and Modeling**<br>
+  We develop shape-based, graph-driven, and transformer-based representations for temporal data, aiming to capture local patterns, long-range dependencies, and hierarchical structures for downstream tasks such as classification, forecasting, and anomaly detection.<br>
+  <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17018"><span class="pub-venue">AAAI</span> ShapeNet: AAAI'21</a><a href="https://arxiv.org/abs/2208.04313"><i class="ai ai-arxiv" aria-hidden="true"></i> AutoShape: arXiv</a><a href="https://ieeexplore.ieee.org/document/9835498"><i class="ai ai-ieee" aria-hidden="true"></i> IPS: ICDE'22</a><a href="https://ieeexplore.ieee.org/document/9096567"><i class="ai ai-ieee" aria-hidden="true"></i> BSPCover: TKDE'22</a><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26359"><span class="pub-venue">AAAI</span> SVP-T: AAAI'23</a><a href="https://dl.acm.org/doi/10.14778/3681954.3681996"><i class="ai ai-acm" aria-hidden="true"></i> DARKER: PVLDB'24</a><a href="https://dl.acm.org/doi/10.1145/3770855.3817713"><i class="ai ai-acm" aria-hidden="true"></i> Hierarchical TS Abstraction: KDD'26</a></span>
+  <span class="research-ongoing"><strong>Ongoing:</strong> Learned graph structures for time-series classification; symbolic and token-based transformers; multimodal and foundation models for time series; hierarchical time-series anomaly detection.</span>
 
-<!-- TSketches (https://github.com/rdzuo/tsketches) -->
+- **Efficient and Privacy-Preserving Similarity Search**<br>
+  We design learned, symbolic, and approximate indexing methods for scalable similarity search over large-scale temporal and high-dimensional data. We also study privacy-preserving mechanisms that enable secure retrieval without exposing sensitive queries or data representations.<br>
+  <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic"><i class="ai ai-ieee" aria-hidden="true"></i> leSAX: ICDE'25</a></span>
+  <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search for time-series similarity search.</span>
 
-- **Transformer for Temporal Modeling**  
-  Variable-position and data-driven attention mechanisms are designed to capture long-range dependencies in multivariate sequences.  
-  (*[SVP-T: AAAI'23](https://ojs.aaai.org/index.php/AAAI/article/view/26359)*, *[DARKER: PVLDB'24](https://dl.acm.org/doi/10.14778/3681954.3681996)*, *[Symbolic Transformer for Time Series Forecasting - Ongoing]*, *[Time Series Tokens for Transformer - Ongoing](https://github.com/rdzuo/tsketch)*, *[Efficient Multimodal Transformer - Ongoing]*, *[Time Series Foundation Model for Forecasting - Ongoing]*, *[Time Series Latent Space for Forecasting - Ongoing]*, *[Time Series Foundation Model for Classification - Ongoing]*, *[Segmentation for TS Forecasting - Ongoing]*)
+- **Error-Bounded Compression for Scientific and Spatiotemporal Data**<br>
+  We develop graph-based, neural, and language-modeling frameworks for controllable scientific-data compression, preserving user-defined error guarantees while improving compression efficiency and downstream usability.<br>
+  <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://ieeexplore.ieee.org/document/11475773/"><i class="ai ai-ieee" aria-hidden="true"></i> GraphComp: TKDE'26</a><a href="https://ieeexplore.ieee.org/document/11401426/"><i class="ai ai-ieee" aria-hidden="true"></i> LLMComp: BigData'25</a></span>
+  <span class="research-ongoing"><strong>Ongoing:</strong> <a href="https://github.com/Muhannadx/ForecastingForCompression"><i class="fab fa-github" aria-hidden="true"></i> DNN4LSDC</a>; LSDComp; learning what to decode.</span>
 
-<!-- (https://github.com/csrcao/LEO.git)  -->
-
-<!-- - **Retrieval in Large-scale Time Series**  
-  Symbolic and neural representations are learned to support efficient similarity search in large-scale temporal datasets.  
-  (*[leSAX: ICDE'25](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic)*,  *[Compression-Aware Similarity Search - Ongoing]*)
-   -->
-
-- **Error-bounded Compression for Scientific/Spatialtemporal Data**  
-  Leverage temporal graphs and LLMs to design frameworks that support controllable, error-bounded scientific data compression.   
-  (*[GraphComp: TKDE‘26](https://arxiv.org/abs/2505.06316)*, *[LLMComp: BigData'25](https://arxiv.org/abs/2510.23632)*, *[DNN4LSDC - Ongoing](https://github.com/Muhannadx/ForecastingForCompression)*, *[LSDComp - Ongoing]*, *[Learn what to decode - Ongoing]*)
-
-- **Efficient Inference and Coordination in LLMs**  
-  System-level techniques to accelerate inference and enhance interaction among large language models, including KV cache optimization, attention runtime control, and multi-model collaboration.   
- (*[CHESS: ArXiv](https://arxiv.org/abs/2602.20732)*, *[ART: Arxiv](https://arxiv.org/abs/2606.00024)*, *[KVDiagnosis: ArXiv](https://arxiv.org/abs/2608.09412)*, *[KV-cache ORCHestrator - Ongoing]*, *[LAG - Ongoing]*)
-
-
-<!-- 
-- **Generative Forecasting for Climate Data**  
-  Generative models (e.g., GANs, diffusion models, and LLMs) for high-resolution forecasting on reanalysis datasets (e.g., ERA5). 
- -->
+- **Efficient Inference and Coordination in LLMs**<br>
+  We develop system-level techniques for efficient large-language-model inference and multi-model collaboration, including semantic context selection, KV-cache optimization, runtime attention control, and coordinated reasoning across models.<br>
+  <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://arxiv.org/abs/2602.20732"><i class="ai ai-arxiv" aria-hidden="true"></i> CHESS: arXiv</a><a href="https://arxiv.org/abs/2606.00024"><i class="ai ai-arxiv" aria-hidden="true"></i> ART: arXiv</a><a href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis: arXiv</a></span>
+  <span class="research-ongoing"><strong>Ongoing:</strong> KV-cache orchestration and efficient multi-model coordination.</span>
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 One paper [HTSA](https://github.com/caracallium/htss) has been accepted by KDD 2026!
-- *2026.04*: &nbsp;🎉 One paper [GraphComp](https://arxiv.org/abs/2505.06316) has been accepted by TKDE!
+- *2026.05*: &nbsp;🎉 One paper [HTSA](https://dl.acm.org/doi/10.1145/3770855.3817713) has been accepted by KDD 2026!
+- *2026.04*: &nbsp;🎉 One paper [GraphComp](https://ieeexplore.ieee.org/document/11475773/) has been accepted by TKDE!
 
 
 

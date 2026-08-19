@@ -49,19 +49,19 @@ Muhannad Alhumaidi, <b>Guozhong Li</b>, Spiros Skiadopoulos, Panos Kalnis<br>
 
 <h2>2026</h2>
 
-<li><p><i><b style="color: #C89933">[KDD]</b> Structure-Aware Abstraction of Hierarchical Time Series. <a href="https://github.com/caracallium/htsa">[Paper]</a>  <a href="https://github.com/caracallium/htsa">[Code]</a>  <a href="https://zenodo.org/records/20560396">[Zenodo]</a> </i><br>
+<li><p><i><b style="color: #C89933">[KDD]</b> Structure-Aware Abstraction of Hierarchical Time Series. <a class="paper-source" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><span class="ai ai-acm" aria-hidden="true"></span> [Paper]</a>  <a href="https://github.com/caracallium/htsa">[Code]</a>  <a href="https://zenodo.org/records/20560396">[Zenodo]</a> </i><br>
 <u>Yihan Wu</u>, Xuliang Zhu<sup>†</sup>, <b>Guozhong Li<sup>†</sup></b>, Kai Wang, Xueming Lin<br>
-Proceedings of ACM Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.</p></li>
+Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), pp. 5500–5511, 2026.</p></li>
 
-<li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a href="https://arxiv.org/abs/2505.06316">[ArXiv]</a> <a href="https://github.com/guozhong-li/GraphComp">[Code]</a></i><br>
+<li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a class="paper-source" href="https://ieeexplore.ieee.org/document/11475773/"><span class="ai ai-ieee" aria-hidden="true"></span> [Paper]</a> <a href="https://github.com/guozhong-li/GraphComp">[Code]</a></i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE), Accepted, 2026.</p></li>
+IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 38, no. 6, pp. 3597–3610, 2026.</p></li>
 
 <h2>2025</h2>
 
-<li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression.<a href="https://arxiv.org/abs/2510.23632">[ArXiv]</a> </i><br>
+<li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression. <a class="paper-source" href="https://ieeexplore.ieee.org/document/11401426/"><span class="ai ai-ieee" aria-hidden="true"></span> [Paper]</a> </i><br>
 <b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Panos Kalnis<br>
-IEEE International Conference on Big Data (IEEE BigData), 2025.</p></li>
+IEEE International Conference on Big Data (IEEE BigData), pp. 2212–2219, 2025.</p></li>
 
 <li><p><i><b style="color: #C89933">[ICDE]</b> leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search. <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic">[Paper] </a> <a href="https://bitbucket.org/busnow/lesax/src/main/">[Code]</a></i><br>
 <b>Guozhong Li</b>, Byron Choi, Rundong Zuo, Sourav S. Bhowmick, Jianliang Xu<br>
