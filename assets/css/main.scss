@@ -1080,6 +1080,19 @@ html[data-theme="dark"] .teaching-page {
   height: 1.08rem;
 }
 
+.homepage-db-mark {
+  display: inline-block;
+  width: 0.9rem;
+  height: 1.08rem;
+  margin: 0 0.22rem 0 0.14rem;
+  border-radius: 0.1rem;
+  background-image: url("/images/hkbu-db-banner.png");
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: 12rem 1.8rem;
+  vertical-align: -0.25rem;
+}
+
 .homepage-follow {
   display: flex;
   flex-wrap: wrap;
@@ -1141,7 +1154,8 @@ html[data-theme="dark"] .teaching-page {
 .homepage-news-item p {
   margin: 0;
   color: var(--global-text-color);
-  font-size: 0.8em;
+  font-size: 0.94em;
+  line-height: 1.55;
 }
 
 .homepage-news-item .news-paper-link {

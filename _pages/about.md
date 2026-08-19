@@ -16,8 +16,8 @@ redirect_from:
       <p class="homepage-summary">I develop data-centric methods for temporal representation, error-bounded scientific-data compression, efficient large language model systems, and privacy-aware similarity search.</p>
 
       <div class="homepage-bio">
-        <p>At KAUST, I am fortunate to be advised by <span class="homepage-kaust-mark" aria-label="KAUST"><img src="/images/kaust-logo.png" alt=""></span><a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ">Prof. Panos Kalnis</a>.</p>
-        <p>Prior to that, I completed my Ph.D. in Computer Science at Hong Kong Baptist University under the supervision of <img class="homepage-inline-logo" src="/images/hkbu-logo.png" alt="HKBU"><a href="https://www.comp.hkbu.edu.hk/~bchoi/">Prof. Byron Choi</a> and <img class="homepage-inline-logo" src="/images/hkbu-logo.png" alt="HKBU"><a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof. Jianliang Xu</a>. I was also a member of the <a href="https://www.comp.hkbu.edu.hk/~db/">HKBU Database Group</a>.</p>
+        <p>At <span class="homepage-kaust-mark" aria-hidden="true"><img src="/images/kaust-logo.png" alt=""></span>KAUST, I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ">Prof. Panos Kalnis</a>.</p>
+        <p>Prior to that, I completed my Ph.D. in Computer Science at <img class="homepage-inline-logo" src="/images/hkbu-logo.png" alt="" aria-hidden="true">Hong Kong Baptist University under the supervision of <a href="https://www.comp.hkbu.edu.hk/~bchoi/">Prof. Byron Choi</a> and <a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof. Jianliang Xu</a>. I was also a member of the <span class="homepage-db-mark" aria-hidden="true"></span><a href="https://www.comp.hkbu.edu.hk/~db/">HKBU Database Group</a>.</p>
       </div>
 
       <nav class="homepage-follow" aria-label="Academic profiles">
