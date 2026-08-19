@@ -44,7 +44,7 @@ To realize this vision, my work contributes to the following directions:
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 One paper <a class="news-paper-link" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><i class="ai ai-acm" aria-hidden="true"></i> Structure-Aware Abstraction of Hierarchical Time Series (HTSA)</a> has been accepted by KDD 2026!
+- *2026.05*: &nbsp;🎉 One paper <a class="news-paper-link" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><i class="ai ai-acm" aria-hidden="true"></i> Hierarchical Time Series Abstraction (HTSA)</a> has been accepted by KDD 2026!
 - *2026.04*: &nbsp;🎉 One paper <a class="news-paper-link" href="https://ieeexplore.ieee.org/document/11475773/"><i class="ai ai-ieee" aria-hidden="true"></i> GraphComp</a> has been accepted by TKDE!
 
 
