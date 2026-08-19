@@ -506,14 +506,6 @@ html[data-theme="dark"] .publication-venue--preprint {
   --service-current: #d48600;
 }
 
-.service-intro {
-  max-width: 42rem;
-  margin: 0;
-  color: var(--service-muted);
-  font-size: 0.95em;
-  line-height: 1.55;
-}
-
 .service-section {
   padding-top: 2rem;
 }
@@ -531,12 +523,6 @@ html[data-theme="dark"] .publication-venue--preprint {
   color: var(--global-text-color);
   font-size: 1em;
   line-height: 1.35;
-}
-
-.service-section__heading p {
-  margin: 0.05rem 0 0;
-  color: var(--service-muted);
-  font-size: 0.8em;
 }
 
 .service-role-list,

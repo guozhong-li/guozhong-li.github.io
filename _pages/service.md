@@ -6,12 +6,9 @@ author_profile: true
 ---
 
 <div class="service-page">
-  <p class="service-intro">Contributing to the research community through editorial review, conference organization, program committees, and community initiatives.</p>
-
   <section class="service-section">
     <div class="service-section__heading">
       <h2>Leadership &amp; Community</h2>
-      <p>Ongoing roles and community-facing contributions.</p>
     </div>
 
     <div class="service-role-list">
@@ -43,25 +40,7 @@ author_profile: true
 
   <section class="service-section">
     <div class="service-section__heading">
-      <h2>Journal Reviewing</h2>
-      <p>Selected journals in data management, machine learning, and intelligent systems.</p>
-    </div>
-
-    <div class="service-journal-grid">
-      <div class="service-journal"><span class="service-journal__code">TKDE</span><span>IEEE Transactions on Knowledge and Data Engineering</span></div>
-      <div class="service-journal"><span class="service-journal__code">TPAMI</span><span>IEEE Transactions on Pattern Analysis and Machine Intelligence</span></div>
-      <div class="service-journal"><span class="service-journal__code">TBD</span><span>IEEE Transactions on Big Data</span></div>
-      <div class="service-journal"><span class="service-journal__code">TNNLS</span><span>IEEE Transactions on Neural Networks and Learning Systems</span></div>
-      <div class="service-journal"><span class="service-journal__code">TCYB</span><span>IEEE Transactions on Cybernetics</span></div>
-      <div class="service-journal"><span class="service-journal__code">TIV</span><span>IEEE Transactions on Intelligent Vehicles</span></div>
-      <div class="service-journal"><span class="service-journal__code">DSE</span><span>Data Science and Engineering</span></div>
-    </div>
-  </section>
-
-  <section class="service-section">
-    <div class="service-section__heading">
       <h2>Conference Service</h2>
-      <p>Program committees and session leadership, organized by year.</p>
     </div>
 
     <div class="service-conference-grid">
@@ -82,6 +61,22 @@ author_profile: true
           <li><span>CIKM</span><time>2020</time></li>
         </ul>
       </div>
+    </div>
+  </section>
+
+  <section class="service-section">
+    <div class="service-section__heading">
+      <h2>Journal Reviewing</h2>
+    </div>
+
+    <div class="service-journal-grid">
+      <div class="service-journal"><span class="service-journal__code">TKDE</span><span>IEEE Transactions on Knowledge and Data Engineering</span></div>
+      <div class="service-journal"><span class="service-journal__code">TPAMI</span><span>IEEE Transactions on Pattern Analysis and Machine Intelligence</span></div>
+      <div class="service-journal"><span class="service-journal__code">TBD</span><span>IEEE Transactions on Big Data</span></div>
+      <div class="service-journal"><span class="service-journal__code">TNNLS</span><span>IEEE Transactions on Neural Networks and Learning Systems</span></div>
+      <div class="service-journal"><span class="service-journal__code">TCYB</span><span>IEEE Transactions on Cybernetics</span></div>
+      <div class="service-journal"><span class="service-journal__code">TIV</span><span>IEEE Transactions on Intelligent Vehicles</span></div>
+      <div class="service-journal"><span class="service-journal__code">DSE</span><span>Data Science and Engineering</span></div>
     </div>
   </section>
 
