@@ -139,7 +139,7 @@ author_profile: true
           <h3 class="publication-title">DARKER: Efficient Transformer with Data-driven Attention Mechanism for Time Series</h3>
           <p class="publication-authors"><u>Rundong Zuo</u>, <strong>Guozhong Li<sup>†</sup></strong>, Rui Cao, Byron Choi, Jianliang Xu, Sourav S. Bhowmick</p>
           <p class="publication-meta"><span class="publication-venue">PVLDB</span> Proceedings of the VLDB Endowment, vol. 17, no. 11, pp. 3229–3242, 2024</p>
-          <p class="publication-actions"><a href="https://doi.org/10.14778/3681954.3681996"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://github.com/rdzuo/darker/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+          <p class="publication-actions"><a href="https://doi.org/10.14778/3681954.3681996"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://github.com/rdzuo/darker/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a><a class="publication-artifact-badge" href="https://github.com/rdzuo/darker/" aria-label="ACM Artifacts Available v1.1" title="ACM Artifacts Available v1.1"><img src="/images/acm-artifacts-available-v1_1.png" alt="ACM Artifacts Available v1.1"></a></p>
         </div>
       </article>
       <article class="publication-entry">
