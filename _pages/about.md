@@ -56,7 +56,7 @@ redirect_from:
       <h2 id="homepage-research-title">🔍 Research</h2>
     </div>
     <div>
-      <p class="homepage-research-intro">My work spans temporal learning, error-bounded scientific-data compression, large language model inference and coordination, and privacy-preserving similarity search.</p>
+      <p class="homepage-research-intro">Across these areas, I combine learning, indexing, and systems techniques to balance accuracy, scalability, and trustworthiness.</p>
 
       <div class="homepage-direction-list">
         <article class="homepage-direction">
