@@ -49,7 +49,7 @@ Muhannad Alhumaidi, <b>Guozhong Li</b>, Spiros Skiadopoulos, Panos Kalnis<br>
 
 <h2>2026</h2>
 
-<li><p><i><b style="color: #C89933">[KDD]</b> Structure-Aware Abstraction of Hierarchical Time Series. <a class="paper-source" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><span class="ai ai-acm" aria-hidden="true"></span> [Paper]</a>  <a href="https://github.com/caracallium/htsa">[Code]</a>  <a href="https://zenodo.org/records/20560396">[Zenodo]</a> </i><br>
+<li><p><i><b style="color: #C89933">[KDD]</b> Structure-Aware Abstraction of Hierarchical Time Series. <a class="paper-source" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><span class="ai ai-acmdl" aria-hidden="true"></span> [Paper]</a>  <a href="https://github.com/caracallium/htsa">[Code]</a>  <a href="https://zenodo.org/records/20560396">[Zenodo]</a> </i><br>
 <u>Yihan Wu</u>, Xuliang Zhu<sup>†</sup>, <b>Guozhong Li<sup>†</sup></b>, Kai Wang, Xueming Lin<br>
 Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), pp. 5500–5511, 2026.</p></li>
 
