@@ -13,7 +13,7 @@ redirect_from:
     <div>
       <h1 id="homepage-name">Guozhong Li</h1>
       <p class="homepage-role">Postdoctoral Research Fellow · KAUST</p>
-      <p class="homepage-summary">I develop efficient, scalable, and privacy-aware methods for representing, searching, compressing, and reasoning over temporal and high-dimensional data.</p>
+      <p class="homepage-summary">I develop data-centric methods for temporal representation, error-bounded scientific-data compression, efficient large language model systems, and privacy-aware similarity search.</p>
 
       <div class="homepage-bio">
         <p>At KAUST, I am fortunate to be advised by <span class="homepage-kaust-mark" aria-label="KAUST"><img src="/images/kaust-logo.png" alt=""></span><a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ">Prof. Panos Kalnis</a>.</p>
@@ -56,7 +56,7 @@ redirect_from:
       <h2 id="homepage-research-title">🔍 Research</h2>
     </div>
     <div>
-      <p class="homepage-research-intro">My work connects temporal learning, scientific-data compression, similarity search, and efficient large language model systems.</p>
+      <p class="homepage-research-intro">My work spans temporal learning, error-bounded scientific-data compression, large language model inference and coordination, and privacy-preserving similarity search.</p>
 
       <div class="homepage-direction-list">
         <article class="homepage-direction">
@@ -82,20 +82,20 @@ redirect_from:
         <article class="homepage-direction">
           <span class="homepage-direction__number">03</span>
           <div>
-            <h3>Efficient and Privacy-Preserving Similarity Search</h3>
-            <p class="homepage-direction__summary">Learned, symbolic, and approximate indexing for secure retrieval over large temporal and high-dimensional datasets.</p>
-            <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic"><i class="ai ai-ieee" aria-hidden="true"></i> leSAX: ICDE'25</a></span>
-            <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search for time-series similarity search.</span>
+            <h3>Efficient Inference and Coordination in LLMs</h3>
+            <p class="homepage-direction__summary">Semantic context selection, KV-cache optimization, runtime attention control, and coordinated multi-model reasoning.</p>
+            <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://arxiv.org/abs/2602.20732"><i class="ai ai-arxiv" aria-hidden="true"></i> CHESS: arXiv,</a><a href="https://arxiv.org/abs/2606.00024"><i class="ai ai-arxiv" aria-hidden="true"></i> ART: arXiv,</a><a href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis: arXiv</a></span>
+            <span class="research-ongoing"><strong>Ongoing:</strong> KV-cache orchestration and adaptive multi-model coordination.</span>
           </div>
         </article>
 
         <article class="homepage-direction">
           <span class="homepage-direction__number">04</span>
           <div>
-            <h3>Efficient Inference and Coordination in LLMs</h3>
-            <p class="homepage-direction__summary">Semantic context selection, KV-cache optimization, runtime attention control, and coordinated multi-model reasoning.</p>
-            <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://arxiv.org/abs/2602.20732"><i class="ai ai-arxiv" aria-hidden="true"></i> CHESS: arXiv,</a><a href="https://arxiv.org/abs/2606.00024"><i class="ai ai-arxiv" aria-hidden="true"></i> ART: arXiv,</a><a href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis: arXiv</a></span>
-            <span class="research-ongoing"><strong>Ongoing:</strong> KV-cache orchestration and efficient multi-model coordination.</span>
+            <h3>Privacy-Preserving Similarity Search</h3>
+            <p class="homepage-direction__summary">Learned, symbolic, and approximate indexing for secure retrieval over large temporal and high-dimensional datasets.</p>
+            <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic"><i class="ai ai-ieee" aria-hidden="true"></i> leSAX: ICDE'25</a></span>
+            <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search for time-series similarity search.</span>
           </div>
         </article>
       </div>
