@@ -5,115 +5,200 @@ permalink: /publications/
 author_profile: true
 ---
 
-## For the full list, please visit my <a href="https://scholar.google.com/citations?user=xr_cyAgAAAAJ&hl=en&authuser=2" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
+<div class="publications-page">
+  <p class="publications-intro">
+    A complete and continuously updated record is available on
+    <a href="https://scholar.google.com/citations?user=xr_cyAgAAAAJ&amp;hl=en&amp;authuser=2" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
+  </p>
 
-## ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
-<!-- "*" equal contribution, -->
+  <p class="publications-note">
+    <span><sup>*</sup> Equal contribution</span>
+    <span><sup>†</sup> Corresponding author</span>
+    <span><u>Underlined</u> Students mentored by me</span>
+  </p>
 
+  <nav class="publication-filters" aria-label="Filter publications">
+    <button class="publication-filter" type="button" data-publication-filter="all" aria-pressed="true">All</button>
+    <button class="publication-filter" type="button" data-publication-filter="peer-reviewed" aria-pressed="false">Peer-reviewed</button>
+    <button class="publication-filter" type="button" data-publication-filter="preprints" aria-pressed="false">Preprints</button>
+    <button class="publication-filter" type="button" data-publication-filter="under-review" aria-pressed="false">Under review</button>
+  </nav>
 
-<!-- <li><p><i><b style="color: #C89933">[Under Reivew]</b> CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference.<a href="https://arxiv.org/pdf/2602.20732">[ArXiv]</a> <a href="https://anonymous.4open.science/r/CHESS-9958/README.md">[Code]</a></i><br>
-<u>Chao Fei</u>, <b>Guozhong Li</b>, Chenxi Liu, Panos Kalnis<br>
-International Conference on Machine Learning, Under Reivew, 2026.</p></li> -->
+  <section class="publication-section" data-publication-section="under-review">
+    <div class="publication-section__heading">
+      <h2>Under Review</h2>
+      <span class="publication-section__count">Ongoing</span>
+    </div>
+    <details class="publication-review-summary">
+      <summary><span>Manuscripts currently under review</span><span class="publication-review-summary__label">Titles withheld</span></summary>
+      <p>Titles, author lists, and venues are intentionally omitted during the double-blind review period.</p>
+    </details>
+  </section>
 
+  <section class="publication-section" data-publication-section="preprints">
+    <div class="publication-section__heading"><h2>Preprints</h2><span class="publication-section__count">Public manuscripts</span></div>
+    <div class="publication-list">
+      <article class="publication-entry">
+        <div class="publication-year">2026</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference</h3>
+          <p class="publication-authors">Chao Fei, <strong>Guozhong Li</strong>, Chenxi Liu, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2602.20732</p>
+          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2602.20732"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2026</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">ART: Attention Run-time Termination for Efficient Large Language Model Decoding</h3>
+          <p class="publication-authors">Chen Qiu, <strong>Guozhong Li</strong>, Cristian McGee, Aritra Dutta, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2606.00024</p>
+          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2606.00024"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2026</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models</h3>
+          <p class="publication-authors">Chen Qiu, Ziwu Liu, Chao Fei, <strong>Guozhong Li</strong>, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2608.09412</p>
+          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2608.09412"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a><a href="https://github.com/ChosenQC/KVDiagnosis"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2026</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">Can Deep Neural Networks Improve Compression of Very Large Scientific Data?</h3>
+          <p class="publication-authors">Muhannad Alhumaidi, <strong>Guozhong Li</strong>, Spiros Skiadopoulos, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2606.14353</p>
+          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2606.14353"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a><a href="https://github.com/Muhannadx/ForecastingForCompression"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
+    </div>
+  </section>
 
-<h2>Under  Review</h2>
-
-<ol>
-
-<li><p><i><b style="color: #C89933">[arXiv]</b> KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models. 
-<a href="https://arxiv.org/abs/2608.09412">[Paper]</a> <a href="https://github.com/ChosenQC/KVDiagnosis">[Code]</a></i><br>
-Chen Qiu, Ziwu Liu, Chao Fei, <b>Guozhong Li</b>, Panos Kalnis<br> </p></li>
-
-<li><p><i><b style="color: #C89933">[ICDE]</b> TSTUDIO: Efficient Discovery of Semantic Tokens for Long Time Series Transformers. 
-<a href="https://github.com/rdzuo/tsketch">[Paper]</a>  <a href="https://github.com/rdzuo/tsketch">[Code]</a>  </i><br>
-<u>Rundong Zuo</u>, Rui Cao, <b>Guozhong Li</b>, Byron Choi, Sourav S. Bhowmick <br>
-IEEE International Conference on Data Engineering (ICDE), Under Review, 2026.</p></li>
-
-<li><p><i><b style="color: #C89933">[ICDE]</b> Efficient Cross-modal Attention Learning for Multimodal Time Series Forecasting.
-<a href="https://github.com/csrcao/LEO.git">[Paper]</a>  <a href="https://github.com/csrcao/LEO.git">[Code]</a>  </i><br>
-<u>Rui Cao</u>, Rundong Zuo, <b>Guozhong Li</b>, Byron Choi, Yafei Li, Renchi Yang<br>
-IEEE International Conference on Data Engineering (ICDE), Under Review, 2026.</p></li>
-
-<li><p><i><b style="color: #C89933">[arXiv]</b> Can Deep Neural Networks Improve Compression of Very Large Scientific Data? 
-<a href="https://arxiv.org/abs/2606.14353">[Paper]</a>  <a href="https://github.com/Muhannadx/ForecastingForCompression">[Code]</a>  </i><br>
-Muhannad Alhumaidi, <b>Guozhong Li</b>, Spiros Skiadopoulos, Panos Kalnis<br>
-</p></li>
-
-</ol>
-
-
-
-<h2>Selected Publications</h2>
-
-<ol>
-
-<h2>2026</h2>
-
-<li><p><i><b style="color: #C89933">[KDD]</b> Structure-Aware Abstraction of Hierarchical Time Series. <a class="paper-source" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><span class="ai ai-acmdl" aria-hidden="true"></span> [Paper]</a>  <a href="https://github.com/caracallium/htsa">[Code]</a>  <a href="https://zenodo.org/records/20560396">[Zenodo]</a> </i><br>
-<u>Yihan Wu</u>, Xuliang Zhu<sup>†</sup>, <b>Guozhong Li<sup>†</sup></b>, Kai Wang, Xueming Lin<br>
-Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), pp. 5500–5511, 2026.</p></li>
-
-<li><p><i><b style="color: #C89933">[TKDE]</b> GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders. <a class="paper-source" href="https://ieeexplore.ieee.org/document/11475773/"><span class="ai ai-ieee" aria-hidden="true"></span> [Paper]</a> <a href="https://github.com/guozhong-li/GraphComp">[Code]</a></i><br>
-<b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis<br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 38, no. 6, pp. 3597–3610, 2026.</p></li>
-
-<h2>2025</h2>
-
-<li><p><i><b style="color: #C89933">[IEEE BigData]</b> LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression. <a class="paper-source" href="https://ieeexplore.ieee.org/document/11401426/"><span class="ai ai-ieee" aria-hidden="true"></span> [Paper]</a> </i><br>
-<b>Guozhong Li</b>, Muhannad Alhumaidi, Spiros Skiadopoulos, Panos Kalnis<br>
-IEEE International Conference on Big Data (IEEE BigData), pp. 2212–2219, 2025.</p></li>
-
-<li><p><i><b style="color: #C89933">[ICDE]</b> leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search. <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic">[Paper] </a> <a href="https://bitbucket.org/busnow/lesax/src/main/">[Code]</a></i><br>
-<b>Guozhong Li</b>, Byron Choi, Rundong Zuo, Sourav S. Bhowmick, Jianliang Xu<br>
-The 41st IEEE International Conference on Data Engineering (ICDE 2025), May 2025.</p></li>
-
-<h2>2024</h2>
-
-<li><p><i><b style="color: #C89933">[PVLDB]</b> DARKER: Efficient Transformer with Data-driven Attention Mechanism for Time Series. <a href="https://doi.org/10.14778/3681954.3681996">[Paper]</a> <a href="https://github.com/rdzuo/darker/">[Code]</a></i><br>
-<u>Rundong Zuo</u>, <b>Guozhong Li<sup>†</sup></b>, Rui Cao, Byron Choi, Jianliang Xu, Sourav S. Bhowmick<br>
-Proceedings of the VLDB Endowment (PVLDB), Vol. 17, No. 11, pp. 3229–3242, Aug 2024.</p></li>
-
-<h2>2023</h2>
-
-<li><p><i><b style="color: #C89933">[AAAI]</b> SVP-T: A Shape-level Variable-Position Transformer for Multivariate Time Series Classification. <a href="https://doi.org/10.1609/aaai.v37i9.26359">[Paper]</a> <a href="https://github.com/rdzuo/svp-transformer">[Code]</a></i><br>
-<u>Rundong Zuo</u>, <b>Guozhong Li<sup>†</sup></b>, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong<br>
-The 37th AAAI Conference on Artificial Intelligence (AAAI 2023), Oral Paper.</p></li>
-
-<h2>2022</h2>
-
-<li><p><i><b style="color: #C89933">[PVLDB]</b> SENSOR: Data-driven Construction of Sketch-based Visual Query Interfaces for Time Series Data. <a href="https://doi.org/10.14778/3554821.3554866">[Paper]</a> <a href="https://www.youtube.com/watch?v=uxF-_v7oiRg"> [Video]</a> </i><br>
-<u>Li Yan</u>, <u>Nerissa Xu</u>, <b>Guozhong Li</b>, Sourav S. Bhowmick, Byron Choi, Jianliang Xu<br>
-Proceedings of the VLDB Endowment (PVLDB), Vol. 15, No. 12, pp. 3650–3653, Sept 2022.</p></li>
-
-<li><p><i><b style="color: #C89933">[ICDE]</b> IPS: Instance Profile for Shapelet Discovery for Time Series Classification. <a href="https://doi.org/10.1109/ICDE53745.2022.00179">[Paper]</a></i><br>
-<b>Guozhong Li</b>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong<br>
-The 38th IEEE International Conference on Data Engineering (ICDE 2022), pp. 1781–1793, May 2022.</p></li>
-
-<li><p><i><b style="color: #C89933">[TKDE]</b> Efficient Shapelet Discovery for Time Series Classification. <a href="https://doi.org/10.1109/TKDE.2020.2995870">[Paper]</a> <a href="https://www.comp.hkbu.edu.hk/~csgzli/tsc/">[Supporting material]</a></i><br>
-<b>Guozhong Li</b>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong<br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 34, No. 3, pp. 1149–1163, 2022.</p></li>
-
-<h2>2021</h2>
-
-<li><p><i><b style="color: #C89933">[AAAI]</b> ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification. <a href="https://doi.org/10.1609/aaai.v35i9.17018">[Paper]</a> <a href="https://www.comp.hkbu.edu.hk/~csgzli/mtsc/">[Supporting material]</a></i><br>
-<b>Guozhong Li</b>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong<br>
-The 35th AAAI Conference on Artificial Intelligence (AAAI 2021), Oral Paper.</p></li>
-
-<h2>2020</h2>
-
-<li><p><i><b style="color: #C89933">[CIKM]</b> Visualet: Visualizing Shapelets for Time Series Classification. <a href="https://doi.org/10.1145/3340531.3417414">[Paper]</a> <a href="https://www.youtube.com/watch?v=cAWylZXDXik">[Video]</a> </i><br>
-<b>Guozhong Li</b>, Byron Choi, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong, Shiwen Li<br>
-29th ACM International Conference on Information and Knowledge Management (CIKM 2020), pp. 3429–3432.</p></li>
-
-</ol>
-
-<!-- # 🌍 Pageviews  -->
-<!-- ClustrMaps 3D Globe -->
-<!-- <div style="width: 200px; height: 200px; margin: 20px auto;">  -->
-<div style="display: none;">
-  <script 
-        type="text/javascript" 
-        id="clstr_globe" 
-        src="//clustrmaps.com/globe.js?d=DDs_hE9lk7PsU1ZRky_FBGAQEjLxZigiUUzWOwowD6U">
-    </script>
+  <section class="publication-section" data-publication-section="peer-reviewed">
+    <div class="publication-section__heading"><h2>Selected Publications</h2><span class="publication-section__count">Peer-reviewed</span></div>
+    <div class="publication-list">
+      <article class="publication-entry">
+        <div class="publication-year">2026</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">Structure-Aware Abstraction of Hierarchical Time Series</h3>
+          <p class="publication-authors"><u>Yihan Wu</u>, Xuliang Zhu<sup>†</sup>, <strong>Guozhong Li<sup>†</sup></strong>, Kai Wang, Xueming Lin</p>
+          <p class="publication-meta"><span class="publication-venue">KDD</span> Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, pp. 5500–5511, 2026</p>
+          <p class="publication-actions"><a class="paper-source" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><span class="ai ai-acmdl" aria-hidden="true"></span> Paper</a><a href="https://github.com/caracallium/htsa"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a><a href="https://zenodo.org/records/20560396"><i class="fas fa-fw fa-box-open" aria-hidden="true"></i> Zenodo</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2026</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders</h3>
+          <p class="publication-authors"><strong>Guozhong Li</strong>, Muhannad Alhumaidi, Spiros Skiadopoulos, Ibrahim Hoteit, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue">TKDE</span> IEEE Transactions on Knowledge and Data Engineering, vol. 38, no. 6, pp. 3597–3610, 2026</p>
+          <p class="publication-actions"><a class="paper-source" href="https://ieeexplore.ieee.org/document/11475773/"><span class="ai ai-ieee" aria-hidden="true"></span> Paper</a><a href="https://github.com/guozhong-li/GraphComp"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2025</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression</h3>
+          <p class="publication-authors"><strong>Guozhong Li</strong>, Muhannad Alhumaidi, Spiros Skiadopoulos, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue">IEEE BigData</span> IEEE International Conference on Big Data, pp. 2212–2219, 2025</p>
+          <p class="publication-actions"><a class="paper-source" href="https://ieeexplore.ieee.org/document/11401426/"><span class="ai ai-ieee" aria-hidden="true"></span> Paper</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2025</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">leSAX Index: A Learned SAX Representation Index for Time Series Similarity Search</h3>
+          <p class="publication-authors"><strong>Guozhong Li</strong>, Byron Choi, Rundong Zuo, Sourav S. Bhowmick, Jianliang Xu</p>
+          <p class="publication-meta"><span class="publication-venue">ICDE</span> The 41st IEEE International Conference on Data Engineering, May 2025</p>
+          <p class="publication-actions"><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://bitbucket.org/busnow/lesax/src/main/"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2024</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">DARKER: Efficient Transformer with Data-driven Attention Mechanism for Time Series</h3>
+          <p class="publication-authors"><u>Rundong Zuo</u>, <strong>Guozhong Li<sup>†</sup></strong>, Rui Cao, Byron Choi, Jianliang Xu, Sourav S. Bhowmick</p>
+          <p class="publication-meta"><span class="publication-venue">PVLDB</span> Proceedings of the VLDB Endowment, vol. 17, no. 11, pp. 3229–3242, 2024</p>
+          <p class="publication-actions"><a href="https://doi.org/10.14778/3681954.3681996"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://github.com/rdzuo/darker/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2023</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">SVP-T: A Shape-level Variable-Position Transformer for Multivariate Time Series Classification</h3>
+          <p class="publication-authors"><u>Rundong Zuo</u>, <strong>Guozhong Li<sup>†</sup></strong>, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong</p>
+          <p class="publication-meta"><span class="publication-venue">AAAI</span> The 37th AAAI Conference on Artificial Intelligence, Oral Paper, 2023</p>
+          <p class="publication-actions"><a href="https://doi.org/10.1609/aaai.v37i9.26359"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://github.com/rdzuo/svp-transformer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2022</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">SENSOR: Data-driven Construction of Sketch-based Visual Query Interfaces for Time Series Data</h3>
+          <p class="publication-authors"><u>Li Yan</u>, <u>Nerissa Xu</u>, <strong>Guozhong Li</strong>, Sourav S. Bhowmick, Byron Choi, Jianliang Xu</p>
+          <p class="publication-meta"><span class="publication-venue">PVLDB</span> Proceedings of the VLDB Endowment, vol. 15, no. 12, pp. 3650–3653, 2022</p>
+          <p class="publication-actions"><a href="https://doi.org/10.14778/3554821.3554866"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://www.youtube.com/watch?v=uxF-_v7oiRg"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> Video</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2022</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">IPS: Instance Profile for Shapelet Discovery for Time Series Classification</h3>
+          <p class="publication-authors"><strong>Guozhong Li</strong>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong</p>
+          <p class="publication-meta"><span class="publication-venue">ICDE</span> The 38th IEEE International Conference on Data Engineering, pp. 1781–1793, 2022</p>
+          <p class="publication-actions"><a href="https://doi.org/10.1109/ICDE53745.2022.00179"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2022</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">Efficient Shapelet Discovery for Time Series Classification</h3>
+          <p class="publication-authors"><strong>Guozhong Li</strong>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong</p>
+          <p class="publication-meta"><span class="publication-venue">TKDE</span> IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 3, pp. 1149–1163, 2022</p>
+          <p class="publication-actions"><a href="https://doi.org/10.1109/TKDE.2020.2995870"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://www.comp.hkbu.edu.hk/~csgzli/tsc/"><i class="fas fa-fw fa-database" aria-hidden="true"></i> Supporting material</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2021</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification</h3>
+          <p class="publication-authors"><strong>Guozhong Li</strong>, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong</p>
+          <p class="publication-meta"><span class="publication-venue">AAAI</span> The 35th AAAI Conference on Artificial Intelligence, Oral Paper, 2021</p>
+          <p class="publication-actions"><a href="https://doi.org/10.1609/aaai.v35i9.17018"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://www.comp.hkbu.edu.hk/~csgzli/mtsc/"><i class="fas fa-fw fa-database" aria-hidden="true"></i> Supporting material</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2020</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">Visualet: Visualizing Shapelets for Time Series Classification</h3>
+          <p class="publication-authors"><strong>Guozhong Li</strong>, Byron Choi, Sourav S. Bhowmick, Kwok Pan Chun, Grace Wong, Shiwen Li</p>
+          <p class="publication-meta"><span class="publication-venue">CIKM</span> 29th ACM International Conference on Information and Knowledge Management, pp. 3429–3432, 2020</p>
+          <p class="publication-actions"><a href="https://doi.org/10.1145/3340531.3417414"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://www.youtube.com/watch?v=cAWylZXDXik"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> Video</a></p>
+        </div>
+      </article>
+    </div>
+  </section>
 </div>
+
+<div style="display: none;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DDs_hE9lk7PsU1ZRky_FBGAQEjLxZigiUUzWOwowD6U"></script>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var page = document.querySelector(".publications-page");
+  if (!page) return;
+  var buttons = page.querySelectorAll("[data-publication-filter]");
+  var sections = page.querySelectorAll("[data-publication-section]");
+  buttons.forEach(function (button) {
+    button.addEventListener("click", function () {
+      var filter = button.getAttribute("data-publication-filter");
+      buttons.forEach(function (item) { item.setAttribute("aria-pressed", item === button ? "true" : "false"); });
+      sections.forEach(function (section) { section.hidden = filter !== "all" && section.getAttribute("data-publication-section") !== filter; });
+    });
+  });
+});
+</script>
