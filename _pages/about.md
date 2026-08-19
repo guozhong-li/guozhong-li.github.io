@@ -35,7 +35,7 @@ To realize this vision, my work contributes to the following directions:
 - **Error-Bounded Compression for Scientific and Spatiotemporal Data**<br>
   We develop graph-based, neural, and language-modeling frameworks for controllable scientific-data compression, preserving user-defined error guarantees while improving compression efficiency and downstream usability.<br>
   <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://ieeexplore.ieee.org/document/11475773/"><i class="ai ai-ieee" aria-hidden="true"></i> GraphComp: TKDE'26</a><a href="https://ieeexplore.ieee.org/document/11401426/"><i class="ai ai-ieee" aria-hidden="true"></i> LLMComp: BigData'25</a></span><br class="research-work-break">
-  <span class="research-ongoing"><strong>Ongoing:</strong> <a href="https://github.com/Muhannadx/ForecastingForCompression"><i class="fab fa-github" aria-hidden="true"></i> DNN4LSDC</a>; LSDComp; learning what to decode.</span>
+  <span class="research-ongoing"><strong>Ongoing:</strong> <a href="https://github.com/Muhannadx/ForecastingForCompression"><i class="fab fa-github" aria-hidden="true"></i> DNN4LSDC</a>.</span>
 
 - **Efficient Inference and Coordination in LLMs**<br>
   We develop system-level techniques for efficient large-language-model inference and multi-model collaboration, including semantic context selection, KV-cache optimization, runtime attention control, and coordinated reasoning across models.<br>
