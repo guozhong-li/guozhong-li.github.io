@@ -74,6 +74,7 @@ html[data-theme="dark"] {
 
 .pub-links a,
 .paper-source,
+.news-paper-link,
 .research-ongoing a {
   display: inline-flex;
   align-items: center;
@@ -98,7 +99,8 @@ html[data-theme="dark"] {
 }
 
 .pub-links .ai-acm,
-.paper-source .ai-acm {
+.paper-source .ai-acm,
+.news-paper-link .ai-acm {
   color: var(--publisher-acm-color);
 }
 
@@ -108,7 +110,8 @@ html[data-theme="dark"] {
 }
 
 .pub-links .ai-ieee,
-.paper-source .ai-ieee {
+.paper-source .ai-ieee,
+.news-paper-link .ai-ieee {
   color: var(--publisher-ieee-color);
 }
 
