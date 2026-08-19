@@ -24,6 +24,8 @@ redirect_from:
         <span class="homepage-follow__label">Follow</span>
         <a href="mailto:guozhong.li@kaust.edu.sa"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>Email</a>
         <a href="https://scholar.google.com/citations?user=xr_cyAgAAAAJ&amp;hl=en&amp;authuser=2"><i class="ai ai-google-scholar" aria-hidden="true"></i>Google Scholar</a>
+        <a href="https://dblp.org/pid/163/1803-1.html"><i class="ai ai-dblp" aria-hidden="true"></i>DBLP</a>
+        <a href="https://orcid.org/0000-0002-1199-9222"><i class="ai ai-orcid" aria-hidden="true"></i>ORCID</a>
         <a href="https://github.com/guozhong-li"><i class="fab fa-fw fa-github" aria-hidden="true"></i>GitHub</a>
       </nav>
     </div>

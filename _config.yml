@@ -35,8 +35,9 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=xr_cyAgAAAAJ&hl=en&authuser=2"
+  dblp             : "https://dblp.org/pid/163/1803-1.html"
+  orcid            : "https://orcid.org/0000-0002-1199-9222"
   impactstory      : # URL
-  #orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
