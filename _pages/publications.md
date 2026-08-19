@@ -103,7 +103,7 @@ author_profile: true
           <h3 class="publication-title">Structure-Aware Abstraction of Hierarchical Time Series</h3>
           <p class="publication-authors"><u>Yihan Wu</u>, Xuliang Zhu<sup>†</sup>, <strong>Guozhong Li<sup>†</sup></strong>, Kai Wang, Xueming Lin</p>
           <p class="publication-meta"><span class="publication-venue">KDD</span> Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, pp. 5500–5511, 2026</p>
-          <p class="publication-actions"><a class="paper-source" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><span class="ai ai-acmdl" aria-hidden="true"></span> Paper</a><a href="https://github.com/caracallium/htsa"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a><a href="https://zenodo.org/records/20560396"><i class="fas fa-fw fa-box-open" aria-hidden="true"></i> Zenodo</a></p>
+          <p class="publication-actions"><a class="paper-source" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><span class="ai ai-acmdl" aria-hidden="true"></span> Paper</a><a href="https://github.com/caracallium/htsa"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a><a href="https://zenodo.org/records/20560396"><i class="fas fa-fw fa-box-open" aria-hidden="true"></i> Zenodo</a><a class="publication-artifact-badge" href="https://zenodo.org/records/20560396" aria-label="ACM Artifacts Available v1.1" title="ACM Artifacts Available v1.1"><img src="/images/acm-artifacts-available-v1_1.png" alt="ACM Artifacts Available v1.1"></a></p>
         </div>
       </article>
       <article class="publication-entry">
