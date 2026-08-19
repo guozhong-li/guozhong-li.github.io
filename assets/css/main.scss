@@ -85,6 +85,20 @@ html[data-theme="dark"] {
   white-space: nowrap;
 }
 
+.pub-links--indented {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  align-items: start;
+}
+
+.pub-links__items {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 0.85rem;
+  min-width: 0;
+}
+
 .pub-links a,
 .paper-source,
 .news-paper-link,
@@ -439,6 +453,15 @@ html[data-theme="dark"] .publication-venue--preprint {
 }
 
 @media (max-width: 520px) {
+  .pub-links--indented {
+    grid-template-columns: 1fr;
+    gap: 0.35rem 0;
+  }
+
+  .pub-links--indented .pub-links__items {
+    padding-left: 0.4rem;
+  }
+
   .publication-section__count {
     display: none;
   }
