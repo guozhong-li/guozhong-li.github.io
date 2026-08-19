@@ -35,7 +35,7 @@ author_profile: true
         <div class="publication-entry__body">
           <h3 class="publication-title">TSTUDIO: Efficient Discovery of Semantic Tokens for Long Time Series Transformers</h3>
           <p class="publication-authors"><u>Rundong Zuo</u>, Rui Cao, <strong>Guozhong Li</strong>, Byron Choi, Sourav S. Bhowmick</p>
-          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, under review, 2026</p>
+          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, under review, 2027</p>
           <p class="publication-actions"><a href="https://github.com/rdzuo/tsketch"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         </div>
       </article>
@@ -45,7 +45,7 @@ author_profile: true
         <div class="publication-entry__body">
           <h3 class="publication-title">Efficient Cross-modal Attention Learning for Multimodal Time Series Forecasting</h3>
           <p class="publication-authors"><u>Rui Cao</u>, Rundong Zuo, <strong>Guozhong Li</strong>, Byron Choi, Yafei Li, Renchi Yang</p>
-          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, under review, 2026</p>
+          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, under review, 2027</p>
           <p class="publication-actions"><a href="https://github.com/csrcao/LEO"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         </div>
       </article>
