@@ -45,10 +45,22 @@
 /* Compact publisher links used in research and publication lists. */
 :root {
   --publisher-github-color: #24292f;
+  --research-selected-label-bg: rgba(0, 133, 202, 0.1);
+  --research-selected-label-border: #0085ca;
+  --research-selected-label-color: #00629b;
+  --research-ongoing-label-bg: rgba(224, 142, 0, 0.12);
+  --research-ongoing-label-border: #d48600;
+  --research-ongoing-label-color: #8a5600;
 }
 
 html[data-theme="dark"] {
   --publisher-github-color: #f0f6fc;
+  --research-selected-label-bg: rgba(88, 184, 232, 0.16);
+  --research-selected-label-border: #58b8e8;
+  --research-selected-label-color: #8bd4f5;
+  --research-ongoing-label-bg: rgba(247, 174, 52, 0.16);
+  --research-ongoing-label-border: #e6a534;
+  --research-ongoing-label-color: #ffc766;
 }
 
 .pub-links {
@@ -62,8 +74,15 @@ html[data-theme="dark"] {
 }
 
 .pub-links__label {
-  color: var(--global-text-color-light);
+  padding: 0.12rem 0.38rem;
+  border-left: 3px solid var(--research-selected-label-border);
+  border-radius: 0.2rem;
+  background: var(--research-selected-label-bg);
+  color: var(--research-selected-label-color);
+  font-size: 0.92em;
   font-weight: 600;
+  line-height: 1.25;
+  white-space: nowrap;
 }
 
 .pub-links a,
@@ -160,6 +179,19 @@ html[data-theme="dark"] {
   clear: both;
   margin-top: 0.1625rem;
   width: 100%;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
   font-size: 0.9em;
+}
+
+.research-ongoing strong {
+  display: inline-block;
+  margin-right: 0.22rem;
+  padding: 0.12rem 0.38rem;
+  border-left: 3px solid var(--research-ongoing-label-border);
+  border-radius: 0.2rem;
+  background: var(--research-ongoing-label-bg);
+  color: var(--research-ongoing-label-color);
+  font-size: 0.92em;
+  line-height: 1.25;
+  white-space: nowrap;
 }
