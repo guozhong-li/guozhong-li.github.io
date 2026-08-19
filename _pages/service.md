@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <div class="service-page">
-  <p class="service-eyebrow">Academic citizenship</p>
   <p class="service-intro">Contributing to the research community through editorial review, conference organization, program committees, and community initiatives.</p>
 
   <section class="service-section">
