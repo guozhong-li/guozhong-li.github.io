@@ -58,10 +58,19 @@ author_profile: true
       <article class="publication-entry">
         <div class="publication-year">2026</div>
         <div class="publication-entry__body">
-          <h3 class="publication-title">CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference</h3>
-          <p class="publication-authors">Chao Fei, <strong>Guozhong Li</strong>, Chenxi Liu, Panos Kalnis</p>
-          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2602.20732</p>
-          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2602.20732"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a></p>
+          <h3 class="publication-title">KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models</h3>
+          <p class="publication-authors">Chen Qiu, Ziwu Liu, Chao Fei, <strong>Guozhong Li</strong>, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2608.09412</p>
+          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2608.09412"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a><a href="https://github.com/ChosenQC/KVDiagnosis"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2026</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">Can Deep Neural Networks Improve Compression of Very Large Scientific Data?</h3>
+          <p class="publication-authors">Muhannad Alhumaidi, <strong>Guozhong Li</strong>, Spiros Skiadopoulos, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2606.14353</p>
+          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2606.14353"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a><a href="https://github.com/Muhannadx/ForecastingForCompression"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         </div>
       </article>
       <article class="publication-entry">
@@ -76,19 +85,10 @@ author_profile: true
       <article class="publication-entry">
         <div class="publication-year">2026</div>
         <div class="publication-entry__body">
-          <h3 class="publication-title">KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models</h3>
-          <p class="publication-authors">Chen Qiu, Ziwu Liu, Chao Fei, <strong>Guozhong Li</strong>, Panos Kalnis</p>
-          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2608.09412</p>
-          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2608.09412"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a><a href="https://github.com/ChosenQC/KVDiagnosis"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
-        </div>
-      </article>
-      <article class="publication-entry">
-        <div class="publication-year">2026</div>
-        <div class="publication-entry__body">
-          <h3 class="publication-title">Can Deep Neural Networks Improve Compression of Very Large Scientific Data?</h3>
-          <p class="publication-authors">Muhannad Alhumaidi, <strong>Guozhong Li</strong>, Spiros Skiadopoulos, Panos Kalnis</p>
-          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2606.14353</p>
-          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2606.14353"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a><a href="https://github.com/Muhannadx/ForecastingForCompression"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+          <h3 class="publication-title">CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference</h3>
+          <p class="publication-authors">Chao Fei, <strong>Guozhong Li</strong>, Chenxi Liu, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2602.20732</p>
+          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2602.20732"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a></p>
         </div>
       </article>
     </div>
