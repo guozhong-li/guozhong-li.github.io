@@ -830,7 +830,7 @@ html[data-theme="dark"] .service-page {
 .teaching-list-heading,
 .teaching-course {
   display: grid;
-  grid-template-columns: 4.9rem minmax(0, 1fr) 11.5rem;
+  grid-template-columns: 4.9rem minmax(0, 1fr) 13rem;
   gap: 1rem;
 }
 
@@ -953,6 +953,11 @@ html[data-theme="dark"] .teaching-page {
     align-items: baseline;
     justify-content: space-between;
     gap: 1rem;
+  }
+
+  .teaching-list-heading,
+  .teaching-course {
+    grid-template-columns: 4.9rem minmax(0, 1fr) 11.5rem;
   }
 }
 
