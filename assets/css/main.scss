@@ -43,12 +43,27 @@
 ;
 
 /* Compact publisher links used in research and publication lists. */
+:root {
+  --publisher-acm-color: #0085ca;
+  --publisher-arxiv-color: #b31b1b;
+  --publisher-github-color: #24292f;
+  --publisher-ieee-color: #00629b;
+}
+
+html[data-theme="dark"] {
+  --publisher-acm-color: #58b8e8;
+  --publisher-arxiv-color: #f06b6b;
+  --publisher-github-color: #f0f6fc;
+  --publisher-ieee-color: #6fb7db;
+}
+
 .pub-links {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.3rem 0.85rem;
   margin-top: 0.4rem;
+  width: 100%;
   font-size: 0.9em;
 }
 
@@ -65,28 +80,63 @@
   gap: 0.22rem;
 }
 
+.pub-links a {
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  color: var(--global-link-color-hover);
+  text-decoration: underline;
+}
+
 .pub-links .ai,
 .pub-links .fab,
 .paper-source .ai,
 .research-ongoing .fab {
-  color: var(--global-link-color);
   font-size: 1.05em;
+}
+
+.pub-links .ai-acm,
+.paper-source .ai-acm {
+  color: var(--publisher-acm-color);
+}
+
+.pub-links .ai-arxiv,
+.paper-source .ai-arxiv {
+  color: var(--publisher-arxiv-color);
+}
+
+.pub-links .ai-ieee,
+.paper-source .ai-ieee {
+  color: var(--publisher-ieee-color);
+}
+
+.pub-links .fa-github,
+.research-ongoing .fa-github {
+  color: var(--publisher-github-color);
 }
 
 .pub-venue {
   padding: 0.05rem 0.22rem;
-  border: 1px solid var(--global-link-color);
+  border: 1px solid var(--global-border-color);
   border-radius: 2px;
-  color: var(--global-link-color);
+  color: var(--global-text-color-light);
   font-size: 0.62em;
   font-weight: 700;
   letter-spacing: 0.04em;
   line-height: 1.25;
 }
 
+.research-work-break {
+  display: block;
+}
+
 .research-ongoing {
   display: block;
-  margin-top: 0.35rem;
+  clear: both;
+  margin-top: 0.65rem;
+  width: 100%;
   color: var(--global-text-color-light);
   font-size: 0.9em;
 }
