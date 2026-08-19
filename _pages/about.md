@@ -39,17 +39,14 @@ redirect_from:
       <article class="homepage-news-item">
         <time datetime="2026-07">2026.07</time>
         <p>Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis</a> is now available on arXiv.</p>
-        <span>arXiv</span>
       </article>
       <article class="homepage-news-item">
         <time datetime="2026-05">2026.05</time>
         <p>One paper <a class="news-paper-link" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><i class="ai ai-acmdl" aria-hidden="true"></i> HTSA</a> has been accepted by KDD 2026!</p>
-        <span>ACM KDD</span>
       </article>
       <article class="homepage-news-item">
         <time datetime="2026-04">2026.04</time>
         <p>One paper <a class="news-paper-link" href="https://ieeexplore.ieee.org/document/11475773/"><i class="ai ai-ieee" aria-hidden="true"></i> GraphComp</a> has been accepted by TKDE!</p>
-        <span>IEEE TKDE</span>
       </article>
     </div>
   </section>

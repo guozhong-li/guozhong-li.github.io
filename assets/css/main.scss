@@ -1120,7 +1120,7 @@ html[data-theme="dark"] .teaching-page {
 
 .homepage-news-item {
   display: grid;
-  grid-template-columns: 4.1rem minmax(0, 1fr) max-content;
+  grid-template-columns: 4.1rem minmax(0, 1fr);
   gap: 0.95rem;
   align-items: baseline;
   padding: 0.75rem 0;
@@ -1137,13 +1137,6 @@ html[data-theme="dark"] .teaching-page {
   margin: 0;
   color: var(--global-text-color);
   font-size: 0.8em;
-}
-
-.homepage-news-item > span {
-  color: var(--homepage-muted);
-  font-size: 0.68em;
-  font-weight: 700;
-  white-space: nowrap;
 }
 
 .homepage-news-item .news-paper-link {
@@ -1377,10 +1370,6 @@ html[data-theme="dark"] .homepage-page {
   .homepage-news-item {
     grid-template-columns: 3.5rem minmax(0, 1fr);
     gap: 0.65rem;
-  }
-
-  .homepage-news-item > span {
-    grid-column: 2;
   }
 
   .homepage-direction {
