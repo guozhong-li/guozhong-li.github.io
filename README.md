@@ -10,7 +10,6 @@ Source for [guozhong-li.github.io](https://guozhong-li.github.io), built with Je
 - `_pages/teaching.md` — teaching
 - `_config.yml` — site metadata and author links
 - `images/` — profile and institution images
-- `files/CV_csgzli.pdf` — curriculum vitae
 
 ## Local preview
 
