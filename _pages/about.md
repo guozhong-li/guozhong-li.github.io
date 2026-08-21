@@ -17,7 +17,8 @@ redirect_from:
 
       <div class="homepage-bio">
         <p>At <span class="homepage-kaust-mark" aria-hidden="true"><img src="/images/kaust-logo.png" alt=""></span>KAUST, I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ">Prof. Panos Kalnis</a>.</p>
-        <p>Prior to that, I completed my Ph.D. in Computer Science at <img class="homepage-inline-logo" src="/images/hkbu-logo.png" alt="" aria-hidden="true">Hong Kong Baptist University under the supervision of <a href="https://www.comp.hkbu.edu.hk/~bchoi/">Prof. Byron Choi</a> and <a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof. Jianliang Xu</a>. I was also a member of the <span class="homepage-db-mark" aria-hidden="true"></span><a href="https://www.comp.hkbu.edu.hk/~db/">HKBU Database Group</a>. My dissertation was <a href="https://scholars.hkbu.edu.hk/ws/portalfiles/portal/56785314/RPG_PHD_2021_10_20_E2_R35_T.pdf">Shapelet Discovery for Time Series Analysis</a>.</p>
+        <p>Prior to that, I completed my Ph.D. in Computer Science at <img class="homepage-inline-logo" src="/images/hkbu-logo.png" alt="" aria-hidden="true">Hong Kong Baptist University under the supervision of <a href="https://www.comp.hkbu.edu.hk/~bchoi/">Prof. Byron Choi</a> and <a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof. Jianliang Xu</a>. I was also a member of the <span class="homepage-db-mark" aria-hidden="true"></span><a href="https://www.comp.hkbu.edu.hk/~db/">HKBU Database Group</a>.</p>
+        <p>My dissertation was <a href="https://scholars.hkbu.edu.hk/ws/portalfiles/portal/56785314/RPG_PHD_2021_10_20_E2_R35_T.pdf">Shapelet Discovery for Time Series Analysis</a>.</p>
       </div>
 
       <nav class="homepage-follow" aria-label="Academic profiles">
