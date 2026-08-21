@@ -17,7 +17,7 @@ redirect_from:
 
       <div class="homepage-bio">
         <p>At <span class="homepage-kaust-mark" aria-hidden="true"><img src="/images/kaust-logo.png" alt=""></span>KAUST, I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ">Prof. Panos Kalnis</a>.</p>
-        <p>Prior to that, I completed my Ph.D. in Computer Science at <img class="homepage-inline-logo" src="/images/hkbu-logo.png" alt="" aria-hidden="true">Hong Kong Baptist University under the supervision of <a href="https://www.comp.hkbu.edu.hk/~bchoi/">Prof. Byron Choi</a> and <a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof. Jianliang Xu</a>. I was also a member of the <span class="homepage-db-mark" aria-hidden="true"></span><a href="https://www.comp.hkbu.edu.hk/~db/">HKBU Database Group</a>.</p>
+        <p>Prior to that, I completed my Ph.D. in Computer Science at <img class="homepage-inline-logo" src="/images/hkbu-logo.png" alt="" aria-hidden="true">Hong Kong Baptist University under the supervision of <a href="https://www.comp.hkbu.edu.hk/~bchoi/">Prof. Byron Choi</a> and <a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof. Jianliang Xu</a>. I was also a member of the <span class="homepage-db-mark" aria-hidden="true"></span><a href="https://www.comp.hkbu.edu.hk/~db/">HKBU Database Group</a>. My dissertation was <a href="https://scholars.hkbu.edu.hk/ws/portalfiles/portal/56785314/RPG_PHD_2021_10_20_E2_R35_T.pdf">Shapelet Discovery for Time Series Analysis</a>.</p>
       </div>
 
       <nav class="homepage-follow" aria-label="Academic profiles">
@@ -102,38 +102,11 @@ redirect_from:
     </div>
   </section>
 
-  <div class="homepage-lower">
-    <section aria-labelledby="homepage-education-title">
-      <h2 id="homepage-education-title">🎓 Education</h2>
-      <article class="homepage-education-item">
-        <img src="/images/hkbu-logo.png" alt="HKBU">
-        <time>2017–2021</time>
-        <div>
-          <h3>Ph.D. in Computer Science</h3>
-          <p>Hong Kong Baptist University, Hong Kong SAR, China</p>
-          <p class="homepage-thesis">Thesis: <a href="https://scholars.hkbu.edu.hk/ws/portalfiles/portal/56785314/RPG_PHD_2021_10_20_E2_R35_T.pdf">Shapelet Discovery for Time Series Analysis</a></p>
-        </div>
-      </article>
-      <article class="homepage-education-item">
-        <img src="/images/uestc-logo.png" alt="UESTC">
-        <time>2014–2017</time>
-        <div>
-          <h3>M.E. in Software Engineering</h3>
-          <p>University of Electronic Science and Technology of China, Chengdu, China</p>
-        </div>
-      </article>
-      <article class="homepage-education-item">
-        <img src="/images/uestc-logo.png" alt="UESTC">
-        <time>2010–2014</time>
-        <div>
-          <h3>B.E. in Software Engineering</h3>
-          <p>University of Electronic Science and Technology of China, Chengdu, China</p>
-        </div>
-      </article>
-    </section>
-
-    <section aria-labelledby="homepage-honors-title">
+  <section class="homepage-section" aria-labelledby="homepage-honors-title">
+    <div class="homepage-section__heading">
       <h2 id="homepage-honors-title">🎖 Honors &amp; Awards</h2>
+    </div>
+    <div>
       <ul class="homepage-honors-list">
         <li><span>Research Performance Award · HKBU</span><time>2020–2021</time></li>
         <li><span>Travelling Allowance for Postgraduate Overseas Attachment Programme · HKBU</span><time>2020</time></li>
@@ -148,8 +121,8 @@ redirect_from:
           <li><span>National Scholarship</span><time>2011–2013, 2016</time></li>
         </ul>
       </details>
-    </section>
-  </div>
+    </div>
+  </section>
 
   <div class="homepage-hidden-tracker" aria-hidden="true">
     <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=LX-XU5v2AyHvdAz7Ic3cWsBeguE789rOYyRa8FFlsXk&amp;cl=ffffff&amp;w=a"></script>

@@ -1043,15 +1043,13 @@ html[data-theme="dark"] .teaching-page {
 }
 
 .homepage-bio a,
-.homepage-follow a,
-.homepage-thesis a {
+.homepage-follow a {
   color: var(--homepage-accent);
   text-decoration: none;
 }
 
 .homepage-bio a:hover,
-.homepage-follow a:hover,
-.homepage-thesis a:hover {
+.homepage-follow a:hover {
   text-decoration: underline;
 }
 
@@ -1210,69 +1208,6 @@ html[data-theme="dark"] .teaching-page {
   line-height: 1.5;
 }
 
-.homepage-lower {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 2.75rem;
-  padding-top: 2.2rem;
-}
-
-.homepage-lower section {
-  min-width: 0;
-}
-
-.homepage-lower h2 {
-  margin: 0 0 0.7rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--homepage-border);
-  color: var(--global-text-color);
-  font-size: 1em;
-}
-
-.homepage-education-item {
-  display: grid;
-  grid-template-columns: 1.85rem 4.3rem minmax(0, 1fr);
-  gap: 0.6rem;
-  align-items: start;
-  padding: 0.72rem 0;
-  border-bottom: 1px solid var(--homepage-border);
-}
-
-.homepage-education-item > img {
-  display: block;
-  width: 1.65rem;
-  height: 1.65rem;
-  object-fit: contain;
-}
-
-.homepage-education-item time {
-  padding-top: 0.05rem;
-  color: var(--homepage-accent);
-  font-size: 0.67em;
-  font-weight: 700;
-  white-space: nowrap;
-}
-
-.homepage-education-item h3 {
-  margin: 0 0 0.1rem;
-  border: 0;
-  color: var(--global-text-color);
-  font-size: 0.76em;
-  line-height: 1.4;
-}
-
-.homepage-education-item p {
-  margin: 0;
-  color: var(--homepage-muted);
-  font-size: 0.69em;
-  line-height: 1.45;
-}
-
-.homepage-education-item .homepage-thesis {
-  margin-top: 0.28rem;
-  font-size: 0.64em;
-}
-
 .homepage-honors-list,
 .homepage-earlier-honors ul {
   margin: 0;
@@ -1293,7 +1228,7 @@ html[data-theme="dark"] .teaching-page {
   padding: 0.65rem 0;
   border-bottom: 1px solid var(--homepage-border);
   color: var(--global-text-color);
-  font-size: 0.69em;
+  font-size: 0.78em;
   line-height: 1.45;
 }
 
@@ -1314,7 +1249,7 @@ html[data-theme="dark"] .teaching-page {
   gap: 1rem;
   padding: 0.52rem 0;
   color: var(--homepage-muted);
-  font-size: 0.7em;
+  font-size: 0.76em;
   font-weight: 650;
   cursor: pointer;
   list-style: none;
@@ -1369,10 +1304,6 @@ html[data-theme="dark"] .homepage-page {
     gap: 0.75rem;
   }
 
-  .homepage-lower {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-  }
 }
 
 @media (max-width: 520px) {
@@ -1396,16 +1327,4 @@ html[data-theme="dark"] .homepage-page {
     gap: 0.65rem;
   }
 
-  .homepage-education-item {
-    grid-template-columns: 1.75rem minmax(0, 1fr);
-  }
-
-  .homepage-education-item time {
-    grid-column: 2;
-    grid-row: 1;
-  }
-
-  .homepage-education-item div {
-    grid-column: 2;
-  }
 }
