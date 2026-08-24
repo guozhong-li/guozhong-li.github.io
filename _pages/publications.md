@@ -58,6 +58,15 @@ author_profile: true
       <article class="publication-entry">
         <div class="publication-year">2026</div>
         <div class="publication-entry__body">
+          <h3 class="publication-title">MentorPulse: Refreshing Cross-Model Latent Guidance for Long-Form Generation</h3>
+          <p class="publication-authors">Ziwu Liu, <strong>Guozhong Li</strong>, Chen Qiu, Weiyang Kong, Panos Kalnis</p>
+          <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2608.20927</p>
+          <p class="publication-actions"><a class="paper-source" href="https://arxiv.org/abs/2608.20927"><span class="ai ai-arxiv" aria-hidden="true"></span> Paper</a></p>
+        </div>
+      </article>
+      <article class="publication-entry">
+        <div class="publication-year">2026</div>
+        <div class="publication-entry__body">
           <h3 class="publication-title">KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models</h3>
           <p class="publication-authors">Chen Qiu, Ziwu Liu, Chao Fei, <strong>Guozhong Li</strong>, Panos Kalnis</p>
           <p class="publication-meta"><span class="publication-venue publication-venue--preprint">arXiv</span> arXiv:2608.09412</p>

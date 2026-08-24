@@ -39,6 +39,10 @@ redirect_from:
     <div class="homepage-news-list">
       <article class="homepage-news-item">
         <time datetime="2026-08">2026.08</time>
+        <p>Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.20927"><i class="ai ai-arxiv" aria-hidden="true"></i> MentorPulse</a> is now available on arXiv.</p>
+      </article>
+      <article class="homepage-news-item">
+        <time datetime="2026-08">2026.08</time>
         <p>Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis</a> is now available on arXiv.</p>
       </article>
       <article class="homepage-news-item">
@@ -85,7 +89,7 @@ redirect_from:
           <div>
             <h3>Efficient Inference and Coordination in LLMs</h3>
             <p class="homepage-direction__summary">Semantic context selection, KV-cache optimization, runtime attention control, and coordinated multi-model reasoning.</p>
-            <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://arxiv.org/abs/2602.20732"><i class="ai ai-arxiv" aria-hidden="true"></i> CHESS: arXiv,</a><a href="https://arxiv.org/abs/2606.00024"><i class="ai ai-arxiv" aria-hidden="true"></i> ART: arXiv,</a><a href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis: arXiv</a></span>
+            <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://arxiv.org/abs/2602.20732"><i class="ai ai-arxiv" aria-hidden="true"></i> CHESS: arXiv,</a><a href="https://arxiv.org/abs/2606.00024"><i class="ai ai-arxiv" aria-hidden="true"></i> ART: arXiv,</a><a href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis: arXiv,</a><a href="https://arxiv.org/abs/2608.20927"><i class="ai ai-arxiv" aria-hidden="true"></i> MentorPulse: arXiv</a></span>
             <span class="research-ongoing"><strong>Ongoing:</strong> KV-cache orchestration and adaptive multi-model coordination.</span>
           </div>
         </article>
