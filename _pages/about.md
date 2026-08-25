@@ -100,7 +100,7 @@ redirect_from:
         <article class="homepage-direction">
           <span class="homepage-direction__number">03</span>
           <div>
-            <h3>Efficient Inference and Coordination in LLMs</h3>
+            <h3>Efficient LLM Inference</h3>
             <p class="homepage-direction__summary">Semantic context selection, KV-cache optimization, runtime attention control, and coordinated multi-model reasoning.</p>
             <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://arxiv.org/abs/2602.20732"><i class="ai ai-arxiv" aria-hidden="true"></i> CHESS: arXiv,</a><a href="https://arxiv.org/abs/2606.00024"><i class="ai ai-arxiv" aria-hidden="true"></i> ART: arXiv,</a><a href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis: arXiv,</a><a href="https://arxiv.org/abs/2608.20927"><i class="ai ai-arxiv" aria-hidden="true"></i> MentorPulse: arXiv</a></span>
             <span class="research-ongoing"><strong>Ongoing:</strong> KV-cache orchestration and adaptive multi-model coordination.</span>
