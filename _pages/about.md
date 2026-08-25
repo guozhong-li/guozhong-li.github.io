@@ -90,7 +90,7 @@ redirect_from:
         <article class="homepage-direction">
           <span class="homepage-direction__number">02</span>
           <div>
-            <h3>Error-Bounded Scientific Data Compression</h3>
+            <h3>Error-Bounded Compression</h3>
             <p class="homepage-direction__summary">Graph, neural, and language-modeling frameworks that preserve user-defined error guarantees.</p>
             <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://ieeexplore.ieee.org/document/11475773/"><i class="ai ai-ieee" aria-hidden="true"></i> GraphComp: TKDE'26,</a><a href="https://ieeexplore.ieee.org/document/11401426/"><i class="ai ai-ieee" aria-hidden="true"></i> LLMComp: BigData'25</a></span>
             <span class="research-ongoing"><strong>Ongoing:</strong> <a href="https://github.com/Muhannadx/ForecastingForCompression"><i class="fab fa-github" aria-hidden="true"></i> DNN4LSDC</a>.</span>
@@ -110,10 +110,10 @@ redirect_from:
         <article class="homepage-direction">
           <span class="homepage-direction__number">04</span>
           <div>
-            <h3>Privacy-Preserving Vector Search for LLMs</h3>
-            <p class="homepage-direction__summary">Vector indexing and retrieval techniques that protect sensitive data in LLM applications.</p>
+            <h3>Privacy-Preserving Vector Databases</h3>
+            <p class="homepage-direction__summary">Secure indexing and approximate retrieval over sensitive, high-dimensional data.</p>
             <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic"><i class="ai ai-ieee" aria-hidden="true"></i> leSAX: ICDE'25</a></span>
-            <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search for secure LLM retrieval.</span>
+            <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search over high-dimensional data.</span>
           </div>
         </article>
       </div>
