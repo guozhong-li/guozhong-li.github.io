@@ -13,7 +13,8 @@ redirect_from:
     <div>
       <h1 id="homepage-name">Guozhong Li</h1>
       <p class="homepage-role">Postdoctoral Research Fellow · KAUST</p>
-      <p class="homepage-summary">I develop data-centric methods for temporal representation, error-bounded scientific-data compression, efficient large language model systems, and privacy-aware similarity search.</p>
+      <p class="homepage-expertise">LLM Systems · Deep Learning · Vector Databases · Temporal &amp; Scientific Data</p>
+      <p class="homepage-summary">I develop efficient and trustworthy AI systems for large language models and high-dimensional data, spanning LLM inference, deep temporal learning, scientific-data compression, and privacy-preserving vector search.</p>
 
       <div class="homepage-bio">
         <p>At <span class="homepage-kaust-mark" aria-hidden="true"><img src="/images/kaust-logo.png" alt=""></span>KAUST, I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ">Prof. Panos Kalnis</a>.</p>
@@ -109,10 +110,10 @@ redirect_from:
         <article class="homepage-direction">
           <span class="homepage-direction__number">04</span>
           <div>
-            <h3>Privacy-Preserving Similarity Search</h3>
-            <p class="homepage-direction__summary">Learned, symbolic, and approximate indexing for secure retrieval over large temporal and high-dimensional datasets.</p>
+            <h3>Privacy-Preserving AI</h3>
+            <p class="homepage-direction__summary">Learning-based and privacy-preserving methods for vector and time-series similarity search.</p>
             <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic"><i class="ai ai-ieee" aria-hidden="true"></i> leSAX: ICDE'25</a></span>
-            <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search for time-series similarity search.</span>
+            <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search over vector and time-series data.</span>
           </div>
         </article>
       </div>

@@ -1016,10 +1016,19 @@ html[data-theme="dark"] .teaching-page {
 }
 
 .homepage-role {
-  margin: 0 0 0.9rem;
+  margin: 0 0 0.32rem;
   color: var(--homepage-accent);
   font-size: 0.88em;
   font-weight: 650;
+}
+
+.homepage-expertise {
+  margin: 0 0 0.78rem;
+  color: var(--global-text-color);
+  font-size: 0.74em;
+  font-weight: 650;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
 }
 
 .homepage-summary {
