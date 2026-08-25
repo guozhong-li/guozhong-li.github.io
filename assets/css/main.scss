@@ -1151,9 +1151,19 @@ html[data-theme="dark"] .teaching-page {
 
 .homepage-news-item p {
   margin: 0;
+}
+
+.homepage-news-headline {
   color: var(--global-text-color);
   font-size: 0.94em;
   line-height: 1.55;
+}
+
+.homepage-news-item .homepage-news-summary {
+  margin-top: 0.18rem;
+  color: var(--homepage-muted);
+  font-size: 0.78em;
+  line-height: 1.45;
 }
 
 .homepage-news-item .news-paper-link {

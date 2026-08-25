@@ -39,19 +39,31 @@ redirect_from:
     <div class="homepage-news-list">
       <article class="homepage-news-item">
         <time datetime="2026-08">2026.08</time>
-        <p>Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.20927"><i class="ai ai-arxiv" aria-hidden="true"></i> MentorPulse</a> is now available on arXiv.</p>
+        <div class="homepage-news-content">
+          <p class="homepage-news-headline">Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.20927"><i class="ai ai-arxiv" aria-hidden="true"></i> MentorPulse</a> is now available on arXiv.</p>
+          <p class="homepage-news-summary">Refreshes cross-model latent guidance during decoding to sustain small-model performance in long-form generation.</p>
+        </div>
       </article>
       <article class="homepage-news-item">
         <time datetime="2026-08">2026.08</time>
-        <p>Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis</a> is now available on arXiv.</p>
+        <div class="homepage-news-content">
+          <p class="homepage-news-headline">Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.09412"><i class="ai ai-arxiv" aria-hidden="true"></i> KVDiagnosis</a> is now available on arXiv.</p>
+          <p class="homepage-news-summary">Provides a diagnostic benchmark for identifying when and why KV-cache compression fails in long-context LLMs.</p>
+        </div>
       </article>
       <article class="homepage-news-item">
         <time datetime="2026-05">2026.05</time>
-        <p>One paper <a class="news-paper-link" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><i class="ai ai-acmdl" aria-hidden="true"></i> HTSA</a> has been accepted by KDD 2026!</p>
+        <div class="homepage-news-content">
+          <p class="homepage-news-headline">One paper <a class="news-paper-link" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><i class="ai ai-acmdl" aria-hidden="true"></i> HTSA</a> has been accepted by KDD 2026!</p>
+          <p class="homepage-news-summary">Selects representative subgraphs to summarize hierarchical time series while preserving structural and temporal patterns.</p>
+        </div>
       </article>
       <article class="homepage-news-item">
         <time datetime="2026-04">2026.04</time>
-        <p>One paper <a class="news-paper-link" href="https://ieeexplore.ieee.org/document/11475773/"><i class="ai ai-ieee" aria-hidden="true"></i> GraphComp</a> has been accepted by TKDE!</p>
+        <div class="homepage-news-content">
+          <p class="homepage-news-headline">One paper <a class="news-paper-link" href="https://ieeexplore.ieee.org/document/11475773/"><i class="ai ai-ieee" aria-hidden="true"></i> GraphComp</a> has been accepted by TKDE!</p>
+          <p class="homepage-news-summary">Uses temporal graph autoencoders to compress scientific data under user-defined point-wise error bounds.</p>
+        </div>
       </article>
     </div>
   </section>
