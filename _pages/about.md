@@ -13,8 +13,8 @@ redirect_from:
     <div>
       <h1 id="homepage-name">Guozhong Li</h1>
       <p class="homepage-role">Postdoctoral Research Fellow · KAUST</p>
-      <p class="homepage-expertise">LLM Systems · Deep Learning · Vector Databases · Temporal &amp; Scientific Data</p>
-      <p class="homepage-summary">I develop efficient and trustworthy AI systems for large language models and high-dimensional data, spanning LLM inference, deep temporal learning, scientific-data compression, and privacy-preserving vector search.</p>
+      <p class="homepage-expertise">LLM Systems · Temporal &amp; Scientific Data · Vector Databases</p>
+      <p class="homepage-summary">I develop efficient and trustworthy AI systems for large language models and high-dimensional data, spanning LLM inference, temporal representation learning, scientific-data compression, and privacy-preserving vector retrieval.</p>
 
       <div class="homepage-bio">
         <p>At <span class="homepage-kaust-mark" aria-hidden="true"><img src="/images/kaust-logo.png" alt=""></span>KAUST, I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ">Prof. Panos Kalnis</a>.</p>
@@ -80,7 +80,7 @@ redirect_from:
         <article class="homepage-direction">
           <span class="homepage-direction__number">01</span>
           <div>
-            <h3>Temporal Representation and Modeling</h3>
+            <h3>Temporal Representation Learning</h3>
             <p class="homepage-direction__summary">Shape-based, graph-driven, and transformer representations for temporal classification, forecasting, and anomaly detection.</p>
             <span class="pub-links pub-links--indented"><span class="pub-links__label">Selected work:</span><span class="pub-links__items"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17018">ShapeNet: AAAI'21,</a><a href="https://arxiv.org/abs/2208.04313"><i class="ai ai-arxiv" aria-hidden="true"></i> AutoShape: arXiv,</a><a href="https://ieeexplore.ieee.org/document/9835498"><i class="ai ai-ieee" aria-hidden="true"></i> IPS: ICDE'22,</a><a href="https://ieeexplore.ieee.org/document/9096567"><i class="ai ai-ieee" aria-hidden="true"></i> BSPCover: TKDE'22,</a><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26359">SVP-T: AAAI'23,</a><a href="https://dl.acm.org/doi/10.14778/3681954.3681996"><i class="ai ai-acmdl" aria-hidden="true"></i> DARKER: PVLDB'24,</a><a href="https://dl.acm.org/doi/10.1145/3770855.3817713"><i class="ai ai-acmdl" aria-hidden="true"></i> Hierarchical TS Abstraction: KDD'26</a></span></span>
             <span class="research-ongoing"><strong>Ongoing:</strong> Learned graph structures for time-series classification; symbolic and token-based transformers; multimodal and foundation models for time series; hierarchical time-series anomaly detection.</span>
@@ -90,7 +90,7 @@ redirect_from:
         <article class="homepage-direction">
           <span class="homepage-direction__number">02</span>
           <div>
-            <h3>Error-Bounded Compression for Scientific and Spatiotemporal Data</h3>
+            <h3>Error-Bounded Scientific Data Compression</h3>
             <p class="homepage-direction__summary">Graph, neural, and language-modeling frameworks that preserve user-defined error guarantees.</p>
             <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://ieeexplore.ieee.org/document/11475773/"><i class="ai ai-ieee" aria-hidden="true"></i> GraphComp: TKDE'26,</a><a href="https://ieeexplore.ieee.org/document/11401426/"><i class="ai ai-ieee" aria-hidden="true"></i> LLMComp: BigData'25</a></span>
             <span class="research-ongoing"><strong>Ongoing:</strong> <a href="https://github.com/Muhannadx/ForecastingForCompression"><i class="fab fa-github" aria-hidden="true"></i> DNN4LSDC</a>.</span>
@@ -110,10 +110,10 @@ redirect_from:
         <article class="homepage-direction">
           <span class="homepage-direction__number">04</span>
           <div>
-            <h3>Privacy-Preserving AI</h3>
-            <p class="homepage-direction__summary">Learning-based and privacy-preserving methods for vector and time-series similarity search.</p>
+            <h3>Privacy-Preserving Vector Search for LLMs</h3>
+            <p class="homepage-direction__summary">Vector indexing and retrieval techniques that protect sensitive data in LLM applications.</p>
             <span class="pub-links"><span class="pub-links__label">Selected work:</span><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300b995/26FZAxpd4ic"><i class="ai ai-ieee" aria-hidden="true"></i> leSAX: ICDE'25</a></span>
-            <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search over vector and time-series data.</span>
+            <span class="research-ongoing"><strong>Ongoing:</strong> Privacy-preserving approximate nearest-neighbor search for secure LLM retrieval.</span>
           </div>
         </article>
       </div>
