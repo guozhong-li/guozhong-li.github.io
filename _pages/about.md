@@ -66,6 +66,13 @@ redirect_from:
           <p class="homepage-news-summary">Uses temporal graph autoencoders to compress scientific data under user-defined point-wise error bounds.</p>
         </div>
       </article>
+      <article class="homepage-news-item">
+        <time datetime="2025-12">2025.12</time>
+        <div class="homepage-news-content">
+          <p class="homepage-news-headline">Our paper <a class="news-paper-link" href="https://ieeexplore.ieee.org/document/11401426/"><i class="ai ai-ieee" aria-hidden="true"></i> LLMComp</a> was published at IEEE BigData 2025.</p>
+          <p class="homepage-news-summary">Recasts scientific data compression as LLM-based top-k prediction while preserving strict error bounds.</p>
+        </div>
+      </article>
     </div>
   </section>
 
