@@ -39,6 +39,13 @@ redirect_from:
     </div>
     <div class="homepage-news-list">
       <article class="homepage-news-item">
+        <time datetime="2026-09">2026.09</time>
+        <div class="homepage-news-content">
+          <p class="homepage-news-headline">Our proposal has been approved for six months of research compute support through the <a class="news-paper-link" href="https://sites.research.google/trc/"><img class="homepage-news-logo" src="/images/google-g.png" alt="" aria-hidden="true">Google TPU Research Cloud (TRC)</a> program.</p>
+          <p class="homepage-news-summary">Building on LLMComp, the project will explore TPU-trained foundation models for error-bounded scientific data compression.</p>
+        </div>
+      </article>
+      <article class="homepage-news-item">
         <time datetime="2026-08">2026.08</time>
         <div class="homepage-news-content">
           <p class="homepage-news-headline">Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2608.20927"><i class="ai ai-arxiv" aria-hidden="true"></i> MentorPulse</a> is now available on arXiv.</p>
