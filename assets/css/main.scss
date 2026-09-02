@@ -1236,6 +1236,53 @@ html[data-theme="dark"] .teaching-page {
   line-height: 1.5;
 }
 
+.homepage-support-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) max-content;
+  gap: 0.85rem;
+  align-items: center;
+  padding: 0.65rem 0;
+  border-top: 1px solid var(--homepage-border);
+  border-bottom: 1px solid var(--homepage-border);
+  font-size: 0.78em;
+  line-height: 1.45;
+}
+
+.homepage-support-card__body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.55rem;
+  align-items: center;
+}
+
+.homepage-support-card__body a {
+  display: inline-flex;
+  gap: 0.28rem;
+  align-items: center;
+  color: var(--homepage-accent);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.homepage-support-card__body a:hover {
+  text-decoration: underline;
+}
+
+.homepage-support-card__body img {
+  width: 0.88rem;
+  height: 0.88rem;
+  object-fit: contain;
+}
+
+.homepage-support-card__body span,
+.homepage-support-card time {
+  color: var(--homepage-muted);
+}
+
+.homepage-support-card time {
+  white-space: nowrap;
+}
+
 .homepage-honors-list,
 .homepage-earlier-honors ul {
   margin: 0;

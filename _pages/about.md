@@ -134,6 +134,19 @@ redirect_from:
     </div>
   </section>
 
+  <section class="homepage-section" aria-labelledby="homepage-support-title">
+    <div class="homepage-section__heading">
+      <h2 id="homepage-support-title">☁️ Research Support</h2>
+    </div>
+    <article class="homepage-support-card">
+      <div class="homepage-support-card__body">
+        <a href="https://sites.research.google/trc/"><img src="/images/google-g.png" alt="" aria-hidden="true">Google TPU Research Cloud (TRC)</a>
+        <span>Six-month research compute grant.</span>
+      </div>
+      <time datetime="2026">2026</time>
+    </article>
+  </section>
+
   <section class="homepage-section" aria-labelledby="homepage-honors-title">
     <div class="homepage-section__heading">
       <h2 id="homepage-honors-title">🎖 Honors &amp; Awards</h2>
