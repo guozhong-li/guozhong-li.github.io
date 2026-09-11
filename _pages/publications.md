@@ -21,36 +21,14 @@ author_profile: true
     <button class="publication-filter" type="button" data-publication-filter="all" aria-pressed="true">All</button>
     <button class="publication-filter" type="button" data-publication-filter="peer-reviewed" aria-pressed="false">Peer-reviewed</button>
     <button class="publication-filter" type="button" data-publication-filter="preprints" aria-pressed="false">Preprints</button>
-    <button class="publication-filter" type="button" data-publication-filter="under-review" aria-pressed="false">Under review</button>
   </nav>
 
-  <section class="publication-section" data-publication-section="under-review">
-    <div class="publication-section__heading">
-      <h2>Under Review</h2>
-      <span class="publication-section__count">2 manuscripts</span>
-    </div>
-    <div class="publication-list">
-      <article class="publication-entry">
-        <div class="publication-year">2026</div>
-        <div class="publication-entry__body">
-          <h3 class="publication-title">TSTUDIO: Efficient Discovery of Semantic Tokens for Long Time Series Transformers</h3>
-          <p class="publication-authors"><u>Rundong Zuo</u>, Rui Cao, <strong>Guozhong Li</strong>, Byron Choi, Sourav S. Bhowmick</p>
-          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, under review, 2027</p>
-          <p class="publication-actions"><a href="https://github.com/rdzuo/tsketch"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
-        </div>
-      </article>
-
-      <article class="publication-entry">
-        <div class="publication-year">2026</div>
-        <div class="publication-entry__body">
-          <h3 class="publication-title">Efficient Cross-modal Attention Learning for Multimodal Time Series Forecasting</h3>
-          <p class="publication-authors"><u>Rui Cao</u>, Rundong Zuo, <strong>Guozhong Li</strong>, Byron Choi, Yafei Li, Renchi Yang</p>
-          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, under review, 2027</p>
-          <p class="publication-actions"><a href="https://github.com/csrcao/LEO"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
-        </div>
-      </article>
-    </div>
-  </section>
+  {% comment %}
+  Temporarily hidden after the ICDE 2027 decision:
+  Efficient Cross-modal Attention Learning for Multimodal Time Series Forecasting
+  Rui Cao, Rundong Zuo, Guozhong Li, Byron Choi, Yafei Li, Renchi Yang
+  Code: https://github.com/csrcao/LEO
+  {% endcomment %}
 
   <section class="publication-section" data-publication-section="preprints">
     <div class="publication-section__heading"><h2>Preprints</h2><span class="publication-section__count">Public manuscripts</span></div>
@@ -106,6 +84,15 @@ author_profile: true
   <section class="publication-section" data-publication-section="peer-reviewed">
     <div class="publication-section__heading"><h2>Selected Publications</h2><span class="publication-section__count">Peer-reviewed</span></div>
     <div class="publication-list">
+      <article class="publication-entry">
+        <div class="publication-year">2027</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">TSTUDIO: Efficient Discovery of Semantic Tokens for Long Time Series Transformers</h3>
+          <p class="publication-authors"><u>Rundong Zuo</u>, Rui Cao, <strong>Guozhong Li</strong>, Byron Choi, Sourav S. Bhowmick</p>
+          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, accepted, 2027</p>
+          <p class="publication-actions"><a href="https://github.com/rdzuo/tsketch"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
       <article class="publication-entry">
         <div class="publication-year">2026</div>
         <div class="publication-entry__body">
