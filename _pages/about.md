@@ -41,6 +41,13 @@ redirect_from:
       <article class="homepage-news-item">
         <time datetime="2026-09">2026.09</time>
         <div class="homepage-news-content">
+          <p class="homepage-news-headline">One paper <a class="news-paper-link" href="https://github.com/rdzuo/tsketch"><i class="fab fa-github" aria-hidden="true"></i> TSTUDIO</a> has been accepted by ICDE 2027!</p>
+          <p class="homepage-news-summary">Discovers semantic TSketch tokens that shorten long time-series inputs, accelerating Transformer training by 2–120× while maintaining or improving classification accuracy.</p>
+        </div>
+      </article>
+      <article class="homepage-news-item">
+        <time datetime="2026-09">2026.09</time>
+        <div class="homepage-news-content">
           <p class="homepage-news-headline">Our proposal has been approved for six months of research compute support through the <a class="news-paper-link" href="https://sites.research.google/trc/"><img class="homepage-news-logo" src="/images/google-g.png" alt="" aria-hidden="true">Google TPU Research Cloud (TRC)</a> program.</p>
           <p class="homepage-news-summary">Building on LLMComp, the project will explore TPU-trained foundation models for error-bounded scientific data compression.</p>
         </div>
