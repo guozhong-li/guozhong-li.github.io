@@ -85,7 +85,7 @@ author_profile: true
     <ul class="service-history__list">
       <li><span>ICDE</span><span>2024–2026</span></li>
       <li><span>ICDM</span><span>2026</span></li>
-      <li><span>EDBT</span><span>2026</span></li>
+      <li><span>EDBT</span><span>2026–2027</span></li>
       <li><span>SIGMOD</span><span>2024</span></li>
       <li><span>AAAI</span><span>2022</span></li>
       <li><span>ICDE</span><span>2022</span></li>
