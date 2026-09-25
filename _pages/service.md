@@ -46,7 +46,7 @@ author_profile: true
     <div class="service-conference-grid">
       <div>
         <h3 class="service-subheading">Program Committee</h3>
-        <div class="service-year-row"><span class="service-year">2027</span><span>SIGMOD Demo · PVLDB · SIGKDD · ICLR · AAAI · WSDM · IJCNN</span></div>
+        <div class="service-year-row"><span class="service-year">2027</span><span>SIGMOD Demo · PVLDB · SIGKDD · ICLR · AAAI · WSDM · EDBT · IJCNN</span></div>
         <div class="service-year-row"><span class="service-year">2026</span><span>SIGMOD Demo · PVLDB Demo · SIGKDD · ICML · AAAI · NeurIPS · PAKDD · BigData · ACML · <a href="https://cnicds.github.io/ICDM2026/">ADSD (ICDM Workshop)</a></span></div>
         <div class="service-year-row"><span class="service-year">2025</span><span>PVLDB Demo · AAAI · IJCAI · PAKDD · ACML</span></div>
         <div class="service-year-row"><span class="service-year">2024</span><span>AAAI · IJCAI · PAKDD</span></div>
@@ -85,7 +85,7 @@ author_profile: true
     <ul class="service-history__list">
       <li><span>ICDE</span><span>2024–2026</span></li>
       <li><span>ICDM</span><span>2026</span></li>
-      <li><span>EDBT</span><span>2026–2027</span></li>
+      <li><span>EDBT</span><span>2026</span></li>
       <li><span>SIGMOD</span><span>2024</span></li>
       <li><span>AAAI</span><span>2022</span></li>
       <li><span>ICDE</span><span>2022</span></li>
