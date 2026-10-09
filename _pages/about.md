@@ -39,6 +39,12 @@ redirect_from:
     </div>
     <div class="homepage-news-list">
       <article class="homepage-news-item">
+        <time datetime="2026-10">2026.10</time>
+        <div class="homepage-news-content">
+          <p class="homepage-news-headline">I was recognized as a Top Reviewer for NeurIPS 2026.</p>
+        </div>
+      </article>
+      <article class="homepage-news-item">
         <time datetime="2026-09">2026.09</time>
         <div class="homepage-news-content">
           <p class="homepage-news-headline">One paper <a class="news-paper-link" href="https://github.com/rdzuo/tsketch"><i class="fab fa-github" aria-hidden="true"></i> TSTUDIO</a> has been accepted by ICDE 2027!</p>

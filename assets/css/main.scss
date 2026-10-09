@@ -631,6 +631,10 @@ html[data-theme="dark"] .publication-venue--preprint {
   font-weight: 700;
 }
 
+.service-subheading--after-list {
+  margin-top: 1.25rem;
+}
+
 .service-year-row {
   display: grid;
   grid-template-columns: 2.65rem minmax(0, 1fr);

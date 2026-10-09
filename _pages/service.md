@@ -60,6 +60,11 @@ author_profile: true
           <li><span>IEEE BigData</span><time>2025</time></li>
           <li><span>CIKM</span><time>2020</time></li>
         </ul>
+
+        <h3 class="service-subheading service-subheading--after-list">Reviewer Recognition</h3>
+        <ul class="service-chair-list">
+          <li><span>NeurIPS · Top Reviewer</span><time>2026</time></li>
+        </ul>
       </div>
     </div>
   </section>
