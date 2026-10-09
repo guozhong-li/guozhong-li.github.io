@@ -41,7 +41,7 @@ redirect_from:
       <article class="homepage-news-item">
         <time datetime="2026-10">2026.10</time>
         <div class="homepage-news-content">
-          <p class="homepage-news-headline">At NeurIPS 2026, Guozhong was recognized as: "Top Reviewer".</p>
+          <p class="homepage-news-headline">🎉 Recognized as “Top Reviewer” at NeurIPS 2026.</p>
         </div>
       </article>
       <article class="homepage-news-item">
