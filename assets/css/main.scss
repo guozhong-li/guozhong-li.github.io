@@ -527,6 +527,7 @@ html[data-theme="dark"] .publication-venue--preprint {
 
 .service-role-list,
 .service-journal-grid,
+.service-review-recognition,
 .service-conference-grid,
 .service-history {
   margin-left: 10.35rem;
@@ -631,8 +632,27 @@ html[data-theme="dark"] .publication-venue--preprint {
   font-weight: 700;
 }
 
-.service-subheading--after-list {
-  margin-top: 1.25rem;
+.service-review-recognition {
+  margin-bottom: 1.35rem;
+  padding: 0.72rem 0.9rem;
+  border-left: 3px solid var(--service-accent);
+  background: rgba(0, 98, 155, 0.055);
+}
+
+.service-review-recognition .service-subheading {
+  margin-bottom: 0.2rem;
+}
+
+.service-review-recognition p {
+  margin: 0;
+  color: var(--global-text-color);
+  font-size: 0.85em;
+  line-height: 1.45;
+}
+
+.service-review-recognition strong {
+  color: var(--service-accent);
+  font-weight: 700;
 }
 
 .service-year-row {
@@ -740,6 +760,10 @@ html[data-theme="dark"] .service-page {
   --service-current: #ffc766;
 }
 
+html[data-theme="dark"] .service-review-recognition {
+  background: rgba(121, 199, 239, 0.08);
+}
+
 @media (max-width: 760px) {
   .service-section__heading {
     grid-template-columns: 1fr;
@@ -748,6 +772,7 @@ html[data-theme="dark"] .service-page {
 
   .service-role-list,
   .service-journal-grid,
+  .service-review-recognition,
   .service-conference-grid,
   .service-history {
     margin-left: 0;

@@ -43,6 +43,11 @@ author_profile: true
       <h2>Conference Service</h2>
     </div>
 
+    <div class="service-review-recognition">
+      <h3 class="service-subheading">Review Recognition</h3>
+      <p>NeurIPS 2026 · <strong>Top Reviewer</strong></p>
+    </div>
+
     <div class="service-conference-grid">
       <div>
         <h3 class="service-subheading">Program Committee</h3>
@@ -59,11 +64,6 @@ author_profile: true
           <li><span>KAUST Rising Stars in AI Symposium</span><time>2026</time></li>
           <li><span>IEEE BigData</span><time>2025</time></li>
           <li><span>CIKM</span><time>2020</time></li>
-        </ul>
-
-        <h3 class="service-subheading service-subheading--after-list">Reviewer Recognition</h3>
-        <ul class="service-chair-list">
-          <li><span>NeurIPS · Top Reviewer</span><time>2026</time></li>
         </ul>
       </div>
     </div>
