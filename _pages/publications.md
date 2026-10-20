@@ -88,7 +88,7 @@ author_profile: true
         <div class="publication-year">2027</div>
         <div class="publication-entry__body">
           <h3 class="publication-title">TSTUDIO: Efficient Discovery of Semantic Tokens for Long Time Series Transformers</h3>
-          <p class="publication-authors"><u>Rundong Zuo</u>, Rui Cao, <strong>Guozhong Li</strong>, Byron Choi, Sourav S. Bhowmick</p>
+          <p class="publication-authors"><u>Rundong Zuo</u>, Rui Cao, <strong>Guozhong Li<sup>†</sup></strong>, Byron Choi, Sourav S. Bhowmick</p>
           <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, accepted, 2027</p>
           <p class="publication-actions"><a href="https://github.com/rdzuo/tsketch"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         </div>
