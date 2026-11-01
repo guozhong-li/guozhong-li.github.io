@@ -76,6 +76,7 @@ author_profile: true
 
     <div class="service-journal-grid">
       <div class="service-journal"><span class="service-journal__code">TKDE</span><span>IEEE Transactions on Knowledge and Data Engineering</span></div>
+      <div class="service-journal"><span class="service-journal__code">VLDBJ</span><span>The VLDB Journal</span></div>
       <div class="service-journal"><span class="service-journal__code">TPAMI</span><span>IEEE Transactions on Pattern Analysis and Machine Intelligence</span></div>
       <div class="service-journal"><span class="service-journal__code">TBD</span><span>IEEE Transactions on Big Data</span></div>
       <div class="service-journal"><span class="service-journal__code">TNNLS</span><span>IEEE Transactions on Neural Networks and Learning Systems</span></div>
