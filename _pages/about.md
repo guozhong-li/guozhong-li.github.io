@@ -14,7 +14,6 @@ redirect_from:
       <h1 id="homepage-name">Guozhong Li</h1>
       <p class="homepage-role">Postdoctoral Research Fellow · KAUST</p>
       <p class="homepage-expertise">Time Series Analysis · Scientific Data Compression · Efficient LLM Inference</p>
-      <p class="homepage-summary">I develop efficient and trustworthy AI systems for large language models and high-dimensional data, spanning LLM inference, temporal representation learning, scientific-data compression, and privacy-preserving vector retrieval.</p>
 
       <div class="homepage-bio">
         <p>At <span class="homepage-kaust-mark" aria-hidden="true"><img src="/images/kaust-logo.png" alt=""></span>KAUST, I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ">Prof. Panos Kalnis</a>.</p>
