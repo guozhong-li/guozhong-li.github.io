@@ -39,8 +39,8 @@ author_profile: true
         <div class="publication-entry__body">
           <h3 class="publication-title">March: An Efficient Transformer Framework for Long-Context Anomaly Detection for Time Series</h3>
           <p class="publication-authors">Rui Cao, <strong>Guozhong Li</strong>, Byron Choi, Rundong Zuo</p>
-          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, under review, 2027</p>
-          <p class="publication-actions"><a href="https://anonymous.4open.science/r/March-TSAD/README.md"><i class="fas fa-fw fa-code" aria-hidden="true"></i> Code</a></p>
+          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, 2027</p>
+          <p class="publication-actions"><a href="https://anonymous.4open.science/r/March-TSAD/README.md"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         </div>
       </article>
     </div>
