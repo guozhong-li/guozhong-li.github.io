@@ -35,10 +35,11 @@ author_profile: true
     <div class="publication-section__heading"><h2>Under Review</h2><span class="publication-section__count">Submitted manuscripts</span></div>
     <div class="publication-list">
       <article class="publication-entry">
-        <div class="publication-year">2026</div>
+        <div class="publication-year">2027</div>
         <div class="publication-entry__body">
           <h3 class="publication-title">Efficient Privacy-Preserving High-Dimensional Approximate Nearest Neighbor Search</h3>
           <p class="publication-authors">Lyu Xu, <strong>Guozhong Li</strong>, Qichen Wang</p>
+          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, 2027</p>
           <p class="publication-actions"><a href="https://github.com/guozhong-li/ObliSC"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         </div>
       </article>
