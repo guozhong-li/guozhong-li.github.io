@@ -19,6 +19,7 @@ author_profile: true
 
   <nav class="publication-filters" aria-label="Filter publications">
     <button class="publication-filter" type="button" data-publication-filter="all" aria-pressed="true">All</button>
+    <button class="publication-filter" type="button" data-publication-filter="under-review" aria-pressed="false">Under review</button>
     <button class="publication-filter" type="button" data-publication-filter="peer-reviewed" aria-pressed="false">Peer-reviewed</button>
     <button class="publication-filter" type="button" data-publication-filter="preprints" aria-pressed="false">Preprints</button>
   </nav>
@@ -29,6 +30,21 @@ author_profile: true
   Rui Cao, Rundong Zuo, Guozhong Li, Byron Choi, Yafei Li, Renchi Yang
   Code: https://github.com/csrcao/LEO
   {% endcomment %}
+
+  <section class="publication-section" data-publication-section="under-review">
+    <div class="publication-section__heading"><h2>Under Review</h2><span class="publication-section__count">Submitted manuscripts</span></div>
+    <div class="publication-list">
+      <article class="publication-entry">
+        <div class="publication-year">2027</div>
+        <div class="publication-entry__body">
+          <h3 class="publication-title">March: An Efficient Transformer Framework for Long-Context Anomaly Detection for Time Series</h3>
+          <p class="publication-authors">Rui Cao, <strong>Guozhong Li</strong>, Byron Choi, Rundong Zuo</p>
+          <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, under review, 2027</p>
+          <p class="publication-actions"><a href="https://anonymous.4open.science/r/March-TSAD/README.md"><i class="fas fa-fw fa-code" aria-hidden="true"></i> Code</a></p>
+        </div>
+      </article>
+    </div>
+  </section>
 
   <section class="publication-section" data-publication-section="preprints">
     <div class="publication-section__heading"><h2>Preprints</h2><span class="publication-section__count">Public manuscripts</span></div>
