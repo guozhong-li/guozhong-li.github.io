@@ -13,7 +13,7 @@ author_profile: true
 
   <p class="publications-note">
     <span><sup>*</sup> Equal contribution</span>
-    <span><sup>†</sup> Corresponding author</span>
+    <span><sup>✉︎</sup> Corresponding author</span>
     <span><u>Underlined</u> Students mentored by me</span>
   </p>
 
@@ -113,7 +113,7 @@ author_profile: true
         <div class="publication-year">2027</div>
         <div class="publication-entry__body">
           <h3 class="publication-title">TSTUDIO: Efficient Discovery of Semantic Tokens for Long Time Series Transformers</h3>
-          <p class="publication-authors"><u>Rundong Zuo</u>, Rui Cao, <strong>Guozhong Li<sup>†</sup></strong>, Byron Choi, Sourav S. Bhowmick</p>
+          <p class="publication-authors"><u>Rundong Zuo</u>, Rui Cao, <strong>Guozhong Li<sup title="Corresponding author">✉︎</sup></strong>, Byron Choi, Sourav S. Bhowmick</p>
           <p class="publication-meta"><span class="publication-venue">ICDE</span> IEEE International Conference on Data Engineering, accepted, 2027</p>
           <p class="publication-actions"><a href="https://github.com/rdzuo/tsketch"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         </div>
@@ -122,7 +122,7 @@ author_profile: true
         <div class="publication-year">2026</div>
         <div class="publication-entry__body">
           <h3 class="publication-title">Structure-Aware Abstraction of Hierarchical Time Series</h3>
-          <p class="publication-authors"><u>Yihan Wu</u>, Xuliang Zhu<sup>†</sup>, <strong>Guozhong Li<sup>†</sup></strong>, Kai Wang, Xueming Lin</p>
+          <p class="publication-authors"><u>Yihan Wu</u>, Xuliang Zhu<sup title="Corresponding author">✉︎</sup>, <strong>Guozhong Li<sup title="Corresponding author">✉︎</sup></strong>, Kai Wang, Xueming Lin</p>
           <p class="publication-meta"><span class="publication-venue">KDD</span> Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, pp. 5500–5511, 2026</p>
           <p class="publication-actions"><a class="paper-source" href="https://dl.acm.org/doi/10.1145/3770855.3817713"><span class="ai ai-acmdl" aria-hidden="true"></span> Paper</a><a href="https://github.com/caracallium/htsa"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a><a href="https://zenodo.org/records/20560396"><i class="fas fa-fw fa-box-open" aria-hidden="true"></i> Zenodo</a><a class="publication-artifact-badge" href="https://zenodo.org/records/20560396" aria-label="ACM Artifacts Available v1.1" title="ACM Artifacts Available v1.1"><img src="/images/acm-artifacts-available-v1_1.png" alt="ACM Artifacts Available v1.1"></a></p>
         </div>
@@ -158,7 +158,7 @@ author_profile: true
         <div class="publication-year">2024</div>
         <div class="publication-entry__body">
           <h3 class="publication-title">DARKER: Efficient Transformer with Data-driven Attention Mechanism for Time Series</h3>
-          <p class="publication-authors"><u>Rundong Zuo</u>, <strong>Guozhong Li<sup>†</sup></strong>, Rui Cao, Byron Choi<sup>†</sup>, Jianliang Xu, Sourav S. Bhowmick</p>
+          <p class="publication-authors"><u>Rundong Zuo</u>, <strong>Guozhong Li<sup title="Corresponding author">✉︎</sup></strong>, Rui Cao, Byron Choi<sup title="Corresponding author">✉︎</sup>, Jianliang Xu, Sourav S. Bhowmick</p>
           <p class="publication-meta"><span class="publication-venue">PVLDB</span> Proceedings of the VLDB Endowment, vol. 17, no. 11, pp. 3229–3242, 2024</p>
           <p class="publication-actions"><a href="https://doi.org/10.14778/3681954.3681996"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://github.com/rdzuo/darker/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a><a class="publication-artifact-badge" href="https://github.com/rdzuo/darker/" aria-label="ACM Artifacts Available v1.1" title="ACM Artifacts Available v1.1"><img src="/images/acm-artifacts-available-v1_1.png" alt="ACM Artifacts Available v1.1"></a></p>
         </div>
@@ -167,7 +167,7 @@ author_profile: true
         <div class="publication-year">2023</div>
         <div class="publication-entry__body">
           <h3 class="publication-title">SVP-T: A Shape-level Variable-Position Transformer for Multivariate Time Series Classification</h3>
-          <p class="publication-authors"><u>Rundong Zuo</u>, <strong>Guozhong Li<sup>†</sup></strong>, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong</p>
+          <p class="publication-authors"><u>Rundong Zuo</u>, <strong>Guozhong Li<sup title="Corresponding author">✉︎</sup></strong>, Byron Choi, Sourav S. Bhowmick, Ngar-yin Mah, Grace Wong</p>
           <p class="publication-meta"><span class="publication-venue">AAAI</span> The 37th AAAI Conference on Artificial Intelligence, Oral Paper, 2023</p>
           <p class="publication-actions"><a href="https://doi.org/10.1609/aaai.v37i9.26359"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Paper</a><a href="https://github.com/rdzuo/svp-transformer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         </div>
