@@ -38,6 +38,13 @@ redirect_from:
     </div>
     <div class="homepage-news-list">
       <article class="homepage-news-item">
+        <time datetime="2026-11">2026.11</time>
+        <div class="homepage-news-content">
+          <p class="homepage-news-headline">Our preprint <a class="news-paper-link" href="https://arxiv.org/abs/2611.25374"><i class="ai ai-arxiv" aria-hidden="true"></i> ObliSC</a> is now available on arXiv.</p>
+          <p class="homepage-news-summary">Protects private queries from access-pattern leakage in cloud-hosted vector databases while maintaining efficient approximate nearest-neighbor search.</p>
+        </div>
+      </article>
+      <article class="homepage-news-item">
         <time datetime="2026-10">2026.10</time>
         <div class="homepage-news-content">
           <p class="homepage-news-headline">🎉 Recognized as “Top Reviewer” at NeurIPS 2026.</p>
